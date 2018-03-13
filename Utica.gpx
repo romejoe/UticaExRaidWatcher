@@ -1,0 +1,2926 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1"
+     creator="overpass-ide">
+    <metadata>
+        <desc>Filtered OSM data converted to GPX by overpass turbo</desc>
+        <copyright
+                author="The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."/>
+        <time>2018-03-13T02:42:02Z</time>
+    </metadata>
+    <trk>
+        <name>Valley View Golf Course</name>
+        <desc>leisure=golf_course
+            name=Valley View Golf Course
+            source=Bing
+        </desc>
+        <link href="http://osm.org/browse/way/125832836"/>
+        <trkseg>
+            <trkpt lat="43.0778217" lon="-75.240958"/>
+            <trkpt lat="43.0773852" lon="-75.2412815"/>
+            <trkpt lat="43.0770592" lon="-75.2414312"/>
+            <trkpt lat="43.075455" lon="-75.2417091"/>
+            <trkpt lat="43.0751102" lon="-75.2417091"/>
+            <trkpt lat="43.0748288" lon="-75.2418861"/>
+            <trkpt lat="43.0744683" lon="-75.2422079"/>
+            <trkpt lat="43.0742168" lon="-75.2426103"/>
+            <trkpt lat="43.0738727" lon="-75.2432379"/>
+            <trkpt lat="43.0736846" lon="-75.2438602"/>
+            <trkpt lat="43.07449" lon="-75.2478571"/>
+            <trkpt lat="43.074397" lon="-75.2481893"/>
+            <trkpt lat="43.0744676" lon="-75.2490368"/>
+            <trkpt lat="43.0745224" lon="-75.2492085"/>
+            <trkpt lat="43.0746165" lon="-75.2494875"/>
+            <trkpt lat="43.0746165" lon="-75.2497342"/>
+            <trkpt lat="43.0733782" lon="-75.2508393"/>
+            <trkpt lat="43.0730412" lon="-75.250968"/>
+            <trkpt lat="43.072908" lon="-75.2494767"/>
+            <trkpt lat="43.0726023" lon="-75.2442947"/>
+            <trkpt lat="43.0715991" lon="-75.2442089"/>
+            <trkpt lat="43.0714502" lon="-75.2442947"/>
+            <trkpt lat="43.0714659" lon="-75.2446166"/>
+            <trkpt lat="43.0714659" lon="-75.2448633"/>
+            <trkpt lat="43.0713483" lon="-75.2450135"/>
+            <trkpt lat="43.0711132" lon="-75.2450886"/>
+            <trkpt lat="43.0709408" lon="-75.2449492"/>
+            <trkpt lat="43.0708232" lon="-75.2446488"/>
+            <trkpt lat="43.0708467" lon="-75.2441767"/>
+            <trkpt lat="43.0705959" lon="-75.2435222"/>
+            <trkpt lat="43.0703295" lon="-75.2437368"/>
+            <trkpt lat="43.0701022" lon="-75.2440265"/>
+            <trkpt lat="43.0696946" lon="-75.2441874"/>
+            <trkpt lat="43.0696946" lon="-75.2439621"/>
+            <trkpt lat="43.0697024" lon="-75.2438441"/>
+            <trkpt lat="43.0697887" lon="-75.2435008"/>
+            <trkpt lat="43.0698984" lon="-75.2432433"/>
+            <trkpt lat="43.0699532" lon="-75.2430931"/>
+            <trkpt lat="43.0698749" lon="-75.242739"/>
+            <trkpt lat="43.0696397" lon="-75.2427176"/>
+            <trkpt lat="43.0692949" lon="-75.242739"/>
+            <trkpt lat="43.0688638" lon="-75.243136"/>
+            <trkpt lat="43.0686835" lon="-75.2434149"/>
+            <trkpt lat="43.0685268" lon="-75.2437368"/>
+            <trkpt lat="43.068707" lon="-75.2441874"/>
+            <trkpt lat="43.0688638" lon="-75.2445951"/>
+            <trkpt lat="43.0690049" lon="-75.2449706"/>
+            <trkpt lat="43.069146" lon="-75.2452603"/>
+            <trkpt lat="43.0693889" lon="-75.2456358"/>
+            <trkpt lat="43.0695379" lon="-75.2459791"/>
+            <trkpt lat="43.0696554" lon="-75.2464405"/>
+            <trkpt lat="43.0697808" lon="-75.2468374"/>
+            <trkpt lat="43.0699611" lon="-75.247331"/>
+            <trkpt lat="43.0701805" lon="-75.2478138"/>
+            <trkpt lat="43.070353" lon="-75.248436"/>
+            <trkpt lat="43.0704392" lon="-75.2487472"/>
+            <trkpt lat="43.0705332" lon="-75.2490798"/>
+            <trkpt lat="43.0706508" lon="-75.2494445"/>
+            <trkpt lat="43.0706743" lon="-75.2498093"/>
+            <trkpt lat="43.0706351" lon="-75.250217"/>
+            <trkpt lat="43.0706116" lon="-75.2505067"/>
+            <trkpt lat="43.0704627" lon="-75.2508393"/>
+            <trkpt lat="43.0703138" lon="-75.2512363"/>
+            <trkpt lat="43.0702824" lon="-75.2515367"/>
+            <trkpt lat="43.07011" lon="-75.2516225"/>
+            <trkpt lat="43.0698827" lon="-75.2516225"/>
+            <trkpt lat="43.0696789" lon="-75.2512041"/>
+            <trkpt lat="43.0695222" lon="-75.2505174"/>
+            <trkpt lat="43.0693576" lon="-75.2500454"/>
+            <trkpt lat="43.0691538" lon="-75.2495626"/>
+            <trkpt lat="43.0688795" lon="-75.2491978"/>
+            <trkpt lat="43.0685816" lon="-75.2490154"/>
+            <trkpt lat="43.0682603" lon="-75.2489617"/>
+            <trkpt lat="43.0680252" lon="-75.2489188"/>
+            <trkpt lat="43.0677743" lon="-75.2485219"/>
+            <trkpt lat="43.0677743" lon="-75.2482322"/>
+            <trkpt lat="43.0678919" lon="-75.2478567"/>
+            <trkpt lat="43.0682054" lon="-75.2473739"/>
+            <trkpt lat="43.0687384" lon="-75.2469233"/>
+            <trkpt lat="43.0678919" lon="-75.2454212"/>
+            <trkpt lat="43.0677116" lon="-75.2450135"/>
+            <trkpt lat="43.0676803" lon="-75.2447775"/>
+            <trkpt lat="43.0677352" lon="-75.2444127"/>
+            <trkpt lat="43.0679311" lon="-75.2441016"/>
+            <trkpt lat="43.0682133" lon="-75.2438441"/>
+            <trkpt lat="43.068276" lon="-75.243372"/>
+            <trkpt lat="43.0684798" lon="-75.2429643"/>
+            <trkpt lat="43.0688873" lon="-75.2425781"/>
+            <trkpt lat="43.0692635" lon="-75.242267"/>
+            <trkpt lat="43.0697495" lon="-75.2416313"/>
+            <trkpt lat="43.0699788" lon="-75.2412886"/>
+            <trkpt lat="43.0785121" lon="-75.2340106"/>
+            <trkpt lat="43.0786602" lon="-75.2342525"/>
+            <trkpt lat="43.0789188" lon="-75.2342525"/>
+            <trkpt lat="43.0791234" lon="-75.234311"/>
+            <trkpt lat="43.0792017" lon="-75.2345363"/>
+            <trkpt lat="43.0793428" lon="-75.2347616"/>
+            <trkpt lat="43.0795387" lon="-75.2350942"/>
+            <trkpt lat="43.0797182" lon="-75.2352288"/>
+            <trkpt lat="43.0799454" lon="-75.2352074"/>
+            <trkpt lat="43.0800865" lon="-75.2352718"/>
+            <trkpt lat="43.0801413" lon="-75.2354863"/>
+            <trkpt lat="43.0801413" lon="-75.2357331"/>
+            <trkpt lat="43.0800865" lon="-75.2360657"/>
+            <trkpt lat="43.081113" lon="-75.2379003"/>
+            <trkpt lat="43.0803686" lon="-75.2387264"/>
+            <trkpt lat="43.080204" lon="-75.2391341"/>
+            <trkpt lat="43.0800238" lon="-75.2395418"/>
+            <trkpt lat="43.0793107" lon="-75.2401856"/>
+            <trkpt lat="43.0787464" lon="-75.2405825"/>
+            <trkpt lat="43.0778217" lon="-75.240958"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>Watson Williams Park</name>
+        <desc>ele=165
+            gnis:county_id=065
+            gnis:created=01/23/1980
+            gnis:feature_id=968930
+            gnis:state_id=36
+            leisure=park
+            name=Watson Williams Park
+            source=Bing
+        </desc>
+        <link href="http://osm.org/browse/way/125832837"/>
+        <trkseg>
+            <trkpt lat="43.0872383" lon="-75.2417538"/>
+            <trkpt lat="43.0879357" lon="-75.2432544"/>
+            <trkpt lat="43.0869707" lon="-75.2440953"/>
+            <trkpt lat="43.0862732" lon="-75.2425947"/>
+            <trkpt lat="43.0872383" lon="-75.2417538"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/125832838</name>
+        <desc>leisure=park</desc>
+        <link href="http://osm.org/browse/way/125832838"/>
+        <trkseg>
+            <trkpt lat="43.089486" lon="-75.2567233"/>
+            <trkpt lat="43.0892941" lon="-75.2565087"/>
+            <trkpt lat="43.0887495" lon="-75.2555377"/>
+            <trkpt lat="43.0878289" lon="-75.2537675"/>
+            <trkpt lat="43.0875703" lon="-75.2532632"/>
+            <trkpt lat="43.0865282" lon="-75.2508439"/>
+            <trkpt lat="43.0858622" lon="-75.249138"/>
+            <trkpt lat="43.0851413" lon="-75.2469922"/>
+            <trkpt lat="43.0843695" lon="-75.2450127"/>
+            <trkpt lat="43.0830172" lon="-75.2417251"/>
+            <trkpt lat="43.0818379" lon="-75.2388605"/>
+            <trkpt lat="43.0813207" lon="-75.2374068"/>
+            <trkpt lat="43.0809255" lon="-75.2361829"/>
+            <trkpt lat="43.0805455" lon="-75.2348793"/>
+            <trkpt lat="43.0802164" lon="-75.2337475"/>
+            <trkpt lat="43.0801654" lon="-75.2335436"/>
+            <trkpt lat="43.0800009" lon="-75.2328462"/>
+            <trkpt lat="43.0801531" lon="-75.2332172"/>
+            <trkpt lat="43.0806703" lon="-75.2346924"/>
+            <trkpt lat="43.0816347" lon="-75.2373792"/>
+            <trkpt lat="43.0824262" lon="-75.2394606"/>
+            <trkpt lat="43.0831236" lon="-75.2412845"/>
+            <trkpt lat="43.0838993" lon="-75.2432156"/>
+            <trkpt lat="43.0850473" lon="-75.2462358"/>
+            <trkpt lat="43.0856696" lon="-75.2478191"/>
+            <trkpt lat="43.0861834" lon="-75.2490253"/>
+            <trkpt lat="43.0863395" lon="-75.2494445"/>
+            <trkpt lat="43.0867587" lon="-75.2504531"/>
+            <trkpt lat="43.0876878" lon="-75.252657"/>
+            <trkpt lat="43.0880561" lon="-75.2535046"/>
+            <trkpt lat="43.0890629" lon="-75.2557845"/>
+            <trkpt lat="43.089486" lon="-75.2567233"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>Addison Miller Park</name>
+        <desc>ele=155
+            gnis:county_id=065
+            gnis:created=01/23/1980
+            gnis:feature_id=942179
+            gnis:state_id=36
+            leisure=park
+            name=Addison Miller Park
+            source=Bing
+        </desc>
+        <link href="http://osm.org/browse/way/125832839"/>
+        <trkseg>
+            <trkpt lat="43.096322" lon="-75.2618728"/>
+            <trkpt lat="43.0940492" lon="-75.263671"/>
+            <trkpt lat="43.0933049" lon="-75.2641645"/>
+            <trkpt lat="43.0931882" lon="-75.2638898"/>
+            <trkpt lat="43.093493" lon="-75.2635208"/>
+            <trkpt lat="43.0933598" lon="-75.2631131"/>
+            <trkpt lat="43.0940579" lon="-75.2620552"/>
+            <trkpt lat="43.0943861" lon="-75.2613857"/>
+            <trkpt lat="43.0949424" lon="-75.2602807"/>
+            <trkpt lat="43.0953114" lon="-75.2596305"/>
+            <trkpt lat="43.096322" lon="-75.2618728"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/125832840</name>
+        <desc>leisure=park</desc>
+        <link href="http://osm.org/browse/way/125832840"/>
+        <trkseg>
+            <trkpt lat="43.1062666" lon="-75.2352388"/>
+            <trkpt lat="43.1055773" lon="-75.2354265"/>
+            <trkpt lat="43.1055694" lon="-75.2337367"/>
+            <trkpt lat="43.1063606" lon="-75.2333827"/>
+            <trkpt lat="43.1062666" lon="-75.2352388"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>Dix Mix Memorial Field</name>
+        <desc>ele=157
+            gnis:county_id=065
+            gnis:created=01/23/1980
+            gnis:feature_id=948503
+            gnis:state_id=36
+            leisure=park
+            name=Dix Mix Memorial Field
+            source=Bing
+        </desc>
+        <link href="http://osm.org/browse/way/125832842"/>
+        <trkseg>
+            <trkpt lat="43.0844049" lon="-75.2857981"/>
+            <trkpt lat="43.0835314" lon="-75.2862715"/>
+            <trkpt lat="43.0833243" lon="-75.2863838"/>
+            <trkpt lat="43.0829004" lon="-75.2866135"/>
+            <trkpt lat="43.0827273" lon="-75.2861157"/>
+            <trkpt lat="43.0825792" lon="-75.2860342"/>
+            <trkpt lat="43.0820612" lon="-75.2846673"/>
+            <trkpt lat="43.0832687" lon="-75.2838026"/>
+            <trkpt lat="43.0829475" lon="-75.2830194"/>
+            <trkpt lat="43.0831661" lon="-75.2828649"/>
+            <trkpt lat="43.0830094" lon="-75.2824679"/>
+            <trkpt lat="43.0841142" lon="-75.2819529"/>
+            <trkpt lat="43.0844598" lon="-75.2832232"/>
+            <trkpt lat="43.0853052" lon="-75.2828005"/>
+            <trkpt lat="43.0844049" lon="-75.2857981"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>Horatio Seymour Park</name>
+        <desc>ele=156
+            gnis:county_id=065
+            gnis:created=01/23/1980
+            gnis:edited=02/20/2008
+            gnis:feature_id=964896
+            gnis:state_id=36
+            leisure=park
+            name=Horatio Seymour Park
+            source=Bing
+        </desc>
+        <link href="http://osm.org/browse/way/125832844"/>
+        <trkseg>
+            <trkpt lat="43.091578" lon="-75.2616636"/>
+            <trkpt lat="43.0915858" lon="-75.2617226"/>
+            <trkpt lat="43.0915897" lon="-75.2618299"/>
+            <trkpt lat="43.0915578" lon="-75.261949"/>
+            <trkpt lat="43.0914794" lon="-75.2620938"/>
+            <trkpt lat="43.0909433" lon="-75.2630047"/>
+            <trkpt lat="43.0908258" lon="-75.2631817"/>
+            <trkpt lat="43.0907671" lon="-75.2634446"/>
+            <trkpt lat="43.0892471" lon="-75.2608697"/>
+            <trkpt lat="43.0902578" lon="-75.2588312"/>
+            <trkpt lat="43.0903126" lon="-75.2588312"/>
+            <trkpt lat="43.0903596" lon="-75.2588366"/>
+            <trkpt lat="43.0905163" lon="-75.2591692"/>
+            <trkpt lat="43.0909904" lon="-75.2600811"/>
+            <trkpt lat="43.0912136" lon="-75.2605907"/>
+            <trkpt lat="43.091499" lon="-75.2614179"/>
+            <trkpt lat="43.0915545" lon="-75.2615617"/>
+            <trkpt lat="43.091578" lon="-75.2616636"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>Steuben Park</name>
+        <desc>ele=153
+            gnis:county_id=065
+            gnis:created=01/23/1980
+            gnis:feature_id=966374
+            gnis:state_id=36
+            leisure=park
+            name=Steuben Park
+            source=Bing
+        </desc>
+        <link href="http://osm.org/browse/way/125832847"/>
+        <trkseg>
+            <trkpt lat="43.0985467" lon="-75.2318163"/>
+            <trkpt lat="43.0985271" lon="-75.2318967"/>
+            <trkpt lat="43.0984678" lon="-75.2319673"/>
+            <trkpt lat="43.0981583" lon="-75.2321818"/>
+            <trkpt lat="43.0980291" lon="-75.2322838"/>
+            <trkpt lat="43.09792" lon="-75.2325458"/>
+            <trkpt lat="43.0977555" lon="-75.2318431"/>
+            <trkpt lat="43.0981824" lon="-75.2315105"/>
+            <trkpt lat="43.0982882" lon="-75.2314622"/>
+            <trkpt lat="43.0983978" lon="-75.2314515"/>
+            <trkpt lat="43.098484" lon="-75.2314998"/>
+            <trkpt lat="43.098531" lon="-75.2315802"/>
+            <trkpt lat="43.0985461" lon="-75.2316776"/>
+            <trkpt lat="43.0985467" lon="-75.2318163"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/125832853</name>
+        <desc>leisure=park</desc>
+        <link href="http://osm.org/browse/way/125832853"/>
+        <trkseg>
+            <trkpt lat="43.1005996" lon="-75.2256773"/>
+            <trkpt lat="43.0997511" lon="-75.226149"/>
+            <trkpt lat="43.0995082" lon="-75.2253292"/>
+            <trkpt lat="43.0992848" lon="-75.2245753"/>
+            <trkpt lat="43.1001332" lon="-75.2241036"/>
+            <trkpt lat="43.1005996" lon="-75.2256773"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>Harry V Quinn Playground</name>
+        <desc>ele=152
+            gnis:county_id=065
+            gnis:created=03/19/2008
+            gnis:edited=06/12/2008
+            gnis:feature_id=2377325
+            gnis:state_id=36
+            leisure=park
+            name=Harry V Quinn Playground
+            source=Bing
+        </desc>
+        <link href="http://osm.org/browse/way/125832855"/>
+        <trkseg>
+            <trkpt lat="43.0944651" lon="-75.2216185"/>
+            <trkpt lat="43.0948405" lon="-75.2227244"/>
+            <trkpt lat="43.0934505" lon="-75.2235229"/>
+            <trkpt lat="43.0931958" lon="-75.2227826"/>
+            <trkpt lat="43.0944651" lon="-75.2216185"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/125832858</name>
+        <desc>leisure=park</desc>
+        <link href="http://osm.org/browse/way/125832858"/>
+        <trkseg>
+            <trkpt lat="43.0961024" lon="-75.2341283"/>
+            <trkpt lat="43.0955619" lon="-75.2345414"/>
+            <trkpt lat="43.0954238" lon="-75.2341965"/>
+            <trkpt lat="43.0956755" lon="-75.2340103"/>
+            <trkpt lat="43.0954757" lon="-75.2335651"/>
+            <trkpt lat="43.0958355" lon="-75.2332923"/>
+            <trkpt lat="43.0961024" lon="-75.2341283"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>Pixley Park</name>
+        <desc>ele=156
+            gnis:county_id=065
+            gnis:created=01/23/1980
+            gnis:feature_id=960654
+            gnis:state_id=36
+            leisure=park
+            name=Pixley Park
+            source=Bing
+        </desc>
+        <link href="http://osm.org/browse/way/125832860"/>
+        <trkseg>
+            <trkpt lat="43.1010193" lon="-75.2638368"/>
+            <trkpt lat="43.1028607" lon="-75.2622408"/>
+            <trkpt lat="43.1032332" lon="-75.2630469"/>
+            <trkpt lat="43.1013918" lon="-75.264643"/>
+            <trkpt lat="43.1010193" lon="-75.2638368"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>Lincoln Playground</name>
+        <desc>ele=145
+            gnis:county_id=065
+            gnis:created=01/23/1980
+            gnis:feature_id=955378
+            gnis:state_id=36
+            leisure=park
+            name=Lincoln Playground
+            source=Bing
+        </desc>
+        <link href="http://osm.org/browse/way/125832862"/>
+        <trkseg>
+            <trkpt lat="43.0951741" lon="-75.2541537"/>
+            <trkpt lat="43.0948529" lon="-75.2549584"/>
+            <trkpt lat="43.0939088" lon="-75.2528609"/>
+            <trkpt lat="43.094418" lon="-75.2524639"/>
+            <trkpt lat="43.0951741" lon="-75.2541537"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>Johnson Park</name>
+        <desc>ele=159
+            gnis:county_id=065
+            gnis:created=01/23/1980
+            gnis:feature_id=954130
+            gnis:state_id=36
+            leisure=park
+            name=Johnson Park
+            source=Bing
+        </desc>
+        <link href="http://osm.org/browse/way/125832864"/>
+        <trkseg>
+            <trkpt lat="43.0919423" lon="-75.2368695"/>
+            <trkpt lat="43.0916048" lon="-75.2371815"/>
+            <trkpt lat="43.0915343" lon="-75.2371868"/>
+            <trkpt lat="43.091484" lon="-75.23717"/>
+            <trkpt lat="43.0912842" lon="-75.2366979"/>
+            <trkpt lat="43.0912763" lon="-75.2366281"/>
+            <trkpt lat="43.091292" lon="-75.2365745"/>
+            <trkpt lat="43.0916211" lon="-75.2362848"/>
+            <trkpt lat="43.0917033" lon="-75.2362526"/>
+            <trkpt lat="43.0917464" lon="-75.2362526"/>
+            <trkpt lat="43.0919887" lon="-75.2367309"/>
+            <trkpt lat="43.0919775" lon="-75.2368266"/>
+            <trkpt lat="43.0919423" lon="-75.2368695"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>Richard P Conner Park</name>
+        <desc>ele=164
+            gnis:county_id=065
+            gnis:created=03/20/2008
+            gnis:feature_id=2392936
+            gnis:state_id=36
+            leisure=park
+            name=Richard P Conner Park
+            source=Bing
+        </desc>
+        <link href="http://osm.org/browse/way/125832866"/>
+        <trkseg>
+            <trkpt lat="43.0862629" lon="-75.229356"/>
+            <trkpt lat="43.085868" lon="-75.2296836"/>
+            <trkpt lat="43.0855096" lon="-75.2293033"/>
+            <trkpt lat="43.0850827" lon="-75.2297435"/>
+            <trkpt lat="43.0839792" lon="-75.2294224"/>
+            <trkpt lat="43.0837183" lon="-75.2296459"/>
+            <trkpt lat="43.0834882" lon="-75.2291366"/>
+            <trkpt lat="43.0837576" lon="-75.2289084"/>
+            <trkpt lat="43.0835506" lon="-75.2284502"/>
+            <trkpt lat="43.0839443" lon="-75.2281168"/>
+            <trkpt lat="43.0837954" lon="-75.2277872"/>
+            <trkpt lat="43.084065" lon="-75.2275589"/>
+            <trkpt lat="43.0845257" lon="-75.2285785"/>
+            <trkpt lat="43.0848184" lon="-75.2283306"/>
+            <trkpt lat="43.0849707" lon="-75.2286677"/>
+            <trkpt lat="43.0856804" lon="-75.2280666"/>
+            <trkpt lat="43.0862629" lon="-75.229356"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/125832867</name>
+        <desc>leisure=park
+            source=Bing
+        </desc>
+        <link href="http://osm.org/browse/way/125832867"/>
+        <trkseg>
+            <trkpt lat="43.1092861" lon="-75.2709333"/>
+            <trkpt lat="43.1085342" lon="-75.2715663"/>
+            <trkpt lat="43.1080525" lon="-75.2704237"/>
+            <trkpt lat="43.1080212" lon="-75.2703272"/>
+            <trkpt lat="43.1080368" lon="-75.2702413"/>
+            <trkpt lat="43.1083619" lon="-75.2700375"/>
+            <trkpt lat="43.1084167" lon="-75.2699516"/>
+            <trkpt lat="43.1084402" lon="-75.2698551"/>
+            <trkpt lat="43.1084402" lon="-75.2696298"/>
+            <trkpt lat="43.1084167" lon="-75.2694367"/>
+            <trkpt lat="43.1090394" lon="-75.2692489"/>
+            <trkpt lat="43.1092861" lon="-75.2709333"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>T R Proctor Park</name>
+        <desc>leisure=park
+            name=T R Proctor Park
+            source=bing &amp; http://www.cityofutica.com/ParksAndRecreation/Parks/City+Parks.htm
+        </desc>
+        <link href="http://osm.org/browse/way/126309553"/>
+        <trkseg>
+            <trkpt lat="43.080667" lon="-75.2056328"/>
+            <trkpt lat="43.0795746" lon="-75.2030428"/>
+            <trkpt lat="43.0798677" lon="-75.202736"/>
+            <trkpt lat="43.0799915" lon="-75.2023792"/>
+            <trkpt lat="43.0801012" lon="-75.2016497"/>
+            <trkpt lat="43.080236" lon="-75.2008584"/>
+            <trkpt lat="43.0804554" lon="-75.2003542"/>
+            <trkpt lat="43.0807532" lon="-75.2001396"/>
+            <trkpt lat="43.081192" lon="-75.1999465"/>
+            <trkpt lat="43.081355" lon="-75.1997292"/>
+            <trkpt lat="43.0815666" lon="-75.199225"/>
+            <trkpt lat="43.0818487" lon="-75.1986885"/>
+            <trkpt lat="43.0821543" lon="-75.1982379"/>
+            <trkpt lat="43.083557" lon="-75.1970899"/>
+            <trkpt lat="43.0850379" lon="-75.2006412"/>
+            <trkpt lat="43.0846399" lon="-75.2009657"/>
+            <trkpt lat="43.0850395" lon="-75.2019957"/>
+            <trkpt lat="43.080667" lon="-75.2056328"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>F T Proctor Park</name>
+        <desc>leisure=park
+            name=F T Proctor Park
+            source=bing &amp; http://www.cityofutica.com/ParksAndRecreation/Parks/City+Parks.htm
+        </desc>
+        <link href="http://osm.org/browse/way/126309555"/>
+        <trkseg>
+            <trkpt lat="43.0910922" lon="-75.1951686"/>
+            <trkpt lat="43.0907257" lon="-75.1954627"/>
+            <trkpt lat="43.0913296" lon="-75.1968738"/>
+            <trkpt lat="43.0874651" lon="-75.199975"/>
+            <trkpt lat="43.0853999" lon="-75.1951498"/>
+            <trkpt lat="43.089631" lon="-75.1917545"/>
+            <trkpt lat="43.0910922" lon="-75.1951686"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>Kernan Park</name>
+        <desc>ele=159
+            gnis:county_id=065
+            gnis:created=03/19/2008
+            gnis:feature_id=2377349
+            gnis:state_id=36
+            leisure=park
+            name=Kernan Park
+            source=Bing
+        </desc>
+        <link href="http://osm.org/browse/way/126309557"/>
+        <trkseg>
+            <trkpt lat="43.0886893" lon="-75.2082801"/>
+            <trkpt lat="43.0885847" lon="-75.2080411"/>
+            <trkpt lat="43.0889047" lon="-75.2077651"/>
+            <trkpt lat="43.0887179" lon="-75.2073759"/>
+            <trkpt lat="43.0891006" lon="-75.2070677"/>
+            <trkpt lat="43.0891437" lon="-75.207234"/>
+            <trkpt lat="43.0892064" lon="-75.2081353"/>
+            <trkpt lat="43.0886893" lon="-75.2082801"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/126309738</name>
+        <desc>landuse=grass
+            source=Bing
+        </desc>
+        <link href="http://osm.org/browse/way/126309738"/>
+        <trkseg>
+            <trkpt lat="43.0828257" lon="-75.2252016"/>
+            <trkpt lat="43.0826597" lon="-75.2252209"/>
+            <trkpt lat="43.0825696" lon="-75.2250171"/>
+            <trkpt lat="43.082191" lon="-75.2242253"/>
+            <trkpt lat="43.0815314" lon="-75.2230376"/>
+            <trkpt lat="43.0821988" lon="-75.2228681"/>
+            <trkpt lat="43.0827787" lon="-75.2240644"/>
+            <trkpt lat="43.0828649" lon="-75.2243916"/>
+            <trkpt lat="43.0828952" lon="-75.2245799"/>
+            <trkpt lat="43.0828884" lon="-75.2247832"/>
+            <trkpt lat="43.0828257" lon="-75.2252016"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>Fort Schuyler Park</name>
+        <desc>ele=129
+            gnis:county_id=065
+            gnis:created=01/23/1980
+            gnis:feature_id=950498
+            gnis:state_id=36
+            leisure=park
+            name=Fort Schuyler Park
+            note=FIXME From Bing images this looks more like a turning-circle rather than a park.
+            source=Bing
+        </desc>
+        <link href="http://osm.org/browse/way/126309786"/>
+        <trkseg>
+            <trkpt lat="43.1024537" lon="-75.2193172"/>
+            <trkpt lat="43.1022213" lon="-75.2192469"/>
+            <trkpt lat="43.1021684" lon="-75.2191932"/>
+            <trkpt lat="43.1021423" lon="-75.2191294"/>
+            <trkpt lat="43.1021384" lon="-75.2190623"/>
+            <trkpt lat="43.1021469" lon="-75.2189733"/>
+            <trkpt lat="43.1021756" lon="-75.2188639"/>
+            <trkpt lat="43.1023048" lon="-75.2187646"/>
+            <trkpt lat="43.1024537" lon="-75.2193172"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>Twin Ponds Golf &amp; Country Club</name>
+        <desc>leisure=golf_course
+            name=Twin Ponds Golf &amp; Country Club
+            source=Bing
+        </desc>
+        <link href="http://osm.org/browse/way/126309897"/>
+        <trkseg>
+            <trkpt lat="43.1100513" lon="-75.277819"/>
+            <trkpt lat="43.1106959" lon="-75.2831808"/>
+            <trkpt lat="43.1108134" lon="-75.2835992"/>
+            <trkpt lat="43.1105785" lon="-75.2837708"/>
+            <trkpt lat="43.1108839" lon="-75.2844789"/>
+            <trkpt lat="43.1104453" lon="-75.2849832"/>
+            <trkpt lat="43.1108683" lon="-75.285863"/>
+            <trkpt lat="43.1092783" lon="-75.2874186"/>
+            <trkpt lat="43.107743" lon="-75.2842429"/>
+            <trkpt lat="43.1073592" lon="-75.2845648"/>
+            <trkpt lat="43.1068109" lon="-75.2841356"/>
+            <trkpt lat="43.1049686" lon="-75.285599"/>
+            <trkpt lat="43.1038046" lon="-75.2832205"/>
+            <trkpt lat="43.1040302" lon="-75.2830735"/>
+            <trkpt lat="43.104067" lon="-75.2827114"/>
+            <trkpt lat="43.1037693" lon="-75.2820499"/>
+            <trkpt lat="43.1032085" lon="-75.2824861"/>
+            <trkpt lat="43.1035132" lon="-75.2831915"/>
+            <trkpt lat="43.0979121" lon="-75.2878156"/>
+            <trkpt lat="43.0976743" lon="-75.2873453"/>
+            <trkpt lat="43.0977084" lon="-75.2869788"/>
+            <trkpt lat="43.0974107" lon="-75.2863243"/>
+            <trkpt lat="43.1028317" lon="-75.2818504"/>
+            <trkpt lat="43.1063488" lon="-75.2791253"/>
+            <trkpt lat="43.1065446" lon="-75.2792862"/>
+            <trkpt lat="43.1069519" lon="-75.2803698"/>
+            <trkpt lat="43.1100513" lon="-75.277819"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/133791245</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=baseball
+        </desc>
+        <link href="http://osm.org/browse/way/133791245"/>
+        <trkseg>
+            <trkpt lat="43.0949001" lon="-75.2612643"/>
+            <trkpt lat="43.0949145" lon="-75.2611499"/>
+            <trkpt lat="43.0953626" lon="-75.2606969"/>
+            <trkpt lat="43.0954525" lon="-75.2608882"/>
+            <trkpt lat="43.0954878" lon="-75.2610026"/>
+            <trkpt lat="43.0955184" lon="-75.2612379"/>
+            <trkpt lat="43.0954975" lon="-75.261405"/>
+            <trkpt lat="43.0954541" lon="-75.2615568"/>
+            <trkpt lat="43.0953979" lon="-75.2616712"/>
+            <trkpt lat="43.0953064" lon="-75.2618031"/>
+            <trkpt lat="43.0949001" lon="-75.2612643"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/133791246</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=baseball
+        </desc>
+        <link href="http://osm.org/browse/way/133791246"/>
+        <trkseg>
+            <trkpt lat="43.0904385" lon="-75.262825"/>
+            <trkpt lat="43.0905152" lon="-75.2623126"/>
+            <trkpt lat="43.0906298" lon="-75.2623011"/>
+            <trkpt lat="43.0907843" lon="-75.2623371"/>
+            <trkpt lat="43.0909241" lon="-75.2624868"/>
+            <trkpt lat="43.0909567" lon="-75.2627516"/>
+            <trkpt lat="43.0909041" lon="-75.2629834"/>
+            <trkpt lat="43.0908253" lon="-75.2630381"/>
+            <trkpt lat="43.0905509" lon="-75.2629632"/>
+            <trkpt lat="43.0904784" lon="-75.2629243"/>
+            <trkpt lat="43.0904385" lon="-75.262825"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/133791247</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=baseball
+        </desc>
+        <link href="http://osm.org/browse/way/133791247"/>
+        <trkseg>
+            <trkpt lat="43.0961575" lon="-75.2617855"/>
+            <trkpt lat="43.0956661" lon="-75.2621968"/>
+            <trkpt lat="43.095597" lon="-75.2620164"/>
+            <trkpt lat="43.0955505" lon="-75.2618185"/>
+            <trkpt lat="43.0955489" lon="-75.2616976"/>
+            <trkpt lat="43.0955746" lon="-75.261526"/>
+            <trkpt lat="43.0956356" lon="-75.2613391"/>
+            <trkpt lat="43.0957223" lon="-75.2611939"/>
+            <trkpt lat="43.095846" lon="-75.2610664"/>
+            <trkpt lat="43.0961655" lon="-75.26168"/>
+            <trkpt lat="43.0961575" lon="-75.2617855"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/133791248</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=baseball
+        </desc>
+        <link href="http://osm.org/browse/way/133791248"/>
+        <trkseg>
+            <trkpt lat="43.090167" lon="-75.2618022"/>
+            <trkpt lat="43.0900717" lon="-75.2615076"/>
+            <trkpt lat="43.0903822" lon="-75.2607879"/>
+            <trkpt lat="43.0905218" lon="-75.260563"/>
+            <trkpt lat="43.0908535" lon="-75.2605765"/>
+            <trkpt lat="43.0911689" lon="-75.2609633"/>
+            <trkpt lat="43.0912461" lon="-75.2612219"/>
+            <trkpt lat="43.0912099" lon="-75.2618112"/>
+            <trkpt lat="43.091003" lon="-75.2621283"/>
+            <trkpt lat="43.0903624" lon="-75.2619214"/>
+            <trkpt lat="43.090167" lon="-75.2618022"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/133791249</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=baseball
+        </desc>
+        <link href="http://osm.org/browse/way/133791249"/>
+        <trkseg>
+            <trkpt lat="43.0587359" lon="-75.2615275"/>
+            <trkpt lat="43.0586498" lon="-75.2618568"/>
+            <trkpt lat="43.0586297" lon="-75.2618899"/>
+            <trkpt lat="43.0585235" lon="-75.2619194"/>
+            <trkpt lat="43.0583756" lon="-75.2618568"/>
+            <trkpt lat="43.0583151" lon="-75.2617298"/>
+            <trkpt lat="43.0583285" lon="-75.2615054"/>
+            <trkpt lat="43.0583863" lon="-75.2613177"/>
+            <trkpt lat="43.0584535" lon="-75.2612993"/>
+            <trkpt lat="43.0586834" lon="-75.2614134"/>
+            <trkpt lat="43.0587359" lon="-75.2615275"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/133791250</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=baseball
+        </desc>
+        <link href="http://osm.org/browse/way/133791250"/>
+        <trkseg>
+            <trkpt lat="43.0589281" lon="-75.2616489"/>
+            <trkpt lat="43.0590114" lon="-75.2616323"/>
+            <trkpt lat="43.0593099" lon="-75.2618274"/>
+            <trkpt lat="43.0593744" lon="-75.2618789"/>
+            <trkpt lat="43.0593233" lon="-75.2620757"/>
+            <trkpt lat="43.0592494" lon="-75.2622487"/>
+            <trkpt lat="43.0591539" lon="-75.2623297"/>
+            <trkpt lat="43.0590639" lon="-75.2623665"/>
+            <trkpt lat="43.0589523" lon="-75.2623554"/>
+            <trkpt lat="43.0588421" lon="-75.2622781"/>
+            <trkpt lat="43.0587856" lon="-75.2621972"/>
+            <trkpt lat="43.0587426" lon="-75.2620905"/>
+            <trkpt lat="43.0589281" lon="-75.2616489"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/133791251</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=baseball
+        </desc>
+        <link href="http://osm.org/browse/way/133791251"/>
+        <trkseg>
+            <trkpt lat="43.0687746" lon="-75.2797276"/>
+            <trkpt lat="43.0687454" lon="-75.2798782"/>
+            <trkpt lat="43.0686286" lon="-75.2801815"/>
+            <trkpt lat="43.0685169" lon="-75.2804402"/>
+            <trkpt lat="43.0683864" lon="-75.2803485"/>
+            <trkpt lat="43.0682936" lon="-75.2802662"/>
+            <trkpt lat="43.0682094" lon="-75.280118"/>
+            <trkpt lat="43.0681527" lon="-75.2798946"/>
+            <trkpt lat="43.0681475" lon="-75.2797182"/>
+            <trkpt lat="43.0681699" lon="-75.279516"/>
+            <trkpt lat="43.0685272" lon="-75.279563"/>
+            <trkpt lat="43.0687472" lon="-75.279643"/>
+            <trkpt lat="43.0687746" lon="-75.2797276"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/133791252</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=baseball
+        </desc>
+        <link href="http://osm.org/browse/way/133791252"/>
+        <trkseg>
+            <trkpt lat="43.068986" lon="-75.2820912"/>
+            <trkpt lat="43.0689035" lon="-75.2819102"/>
+            <trkpt lat="43.0689757" lon="-75.2815856"/>
+            <trkpt lat="43.069132" lon="-75.2808636"/>
+            <trkpt lat="43.0692403" lon="-75.2807695"/>
+            <trkpt lat="43.0695701" lon="-75.2809294"/>
+            <trkpt lat="43.0698416" lon="-75.281254"/>
+            <trkpt lat="43.0699" lon="-75.2813974"/>
+            <trkpt lat="43.0699515" lon="-75.281889"/>
+            <trkpt lat="43.0698811" lon="-75.2822817"/>
+            <trkpt lat="43.0698502" lon="-75.2824017"/>
+            <trkpt lat="43.0693863" lon="-75.2822535"/>
+            <trkpt lat="43.0693399" lon="-75.2822794"/>
+            <trkpt lat="43.0690032" lon="-75.282143"/>
+            <trkpt lat="43.068986" lon="-75.2820912"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/133791253</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=baseball
+        </desc>
+        <link href="http://osm.org/browse/way/133791253"/>
+        <trkseg>
+            <trkpt lat="43.0979895" lon="-75.2685369"/>
+            <trkpt lat="43.097811" lon="-75.268579"/>
+            <trkpt lat="43.0970508" lon="-75.2684317"/>
+            <trkpt lat="43.0970047" lon="-75.2681636"/>
+            <trkpt lat="43.0970105" lon="-75.2679638"/>
+            <trkpt lat="43.0970393" lon="-75.267672"/>
+            <trkpt lat="43.0971372" lon="-75.2674038"/>
+            <trkpt lat="43.0972581" lon="-75.2672592"/>
+            <trkpt lat="43.0974002" lon="-75.2671514"/>
+            <trkpt lat="43.0975422" lon="-75.2671068"/>
+            <trkpt lat="43.0977073" lon="-75.2670778"/>
+            <trkpt lat="43.0978858" lon="-75.2671383"/>
+            <trkpt lat="43.0979837" lon="-75.267204"/>
+            <trkpt lat="43.0980452" lon="-75.2679428"/>
+            <trkpt lat="43.0980586" lon="-75.2684317"/>
+            <trkpt lat="43.0979895" lon="-75.2685369"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/133791255</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=baseball
+        </desc>
+        <link href="http://osm.org/browse/way/133791255"/>
+        <trkseg>
+            <trkpt lat="43.0987025" lon="-75.2651937"/>
+            <trkpt lat="43.0985062" lon="-75.2645888"/>
+            <trkpt lat="43.0986475" lon="-75.2644625"/>
+            <trkpt lat="43.0988046" lon="-75.2644087"/>
+            <trkpt lat="43.0989537" lon="-75.2644087"/>
+            <trkpt lat="43.0990931" lon="-75.2645378"/>
+            <trkpt lat="43.0991559" lon="-75.2647743"/>
+            <trkpt lat="43.0991873" lon="-75.2649034"/>
+            <trkpt lat="43.0987574" lon="-75.265226"/>
+            <trkpt lat="43.0987025" lon="-75.2651937"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/134129364</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=baseball
+        </desc>
+        <link href="http://osm.org/browse/way/134129364"/>
+        <trkseg>
+            <trkpt lat="43.0807779" lon="-75.2147429"/>
+            <trkpt lat="43.0805552" lon="-75.2142989"/>
+            <trkpt lat="43.080632" lon="-75.2141812"/>
+            <trkpt lat="43.0807649" lon="-75.214051"/>
+            <trkpt lat="43.0808677" lon="-75.213985"/>
+            <trkpt lat="43.08108" lon="-75.2140136"/>
+            <trkpt lat="43.0812415" lon="-75.2142044"/>
+            <trkpt lat="43.0813379" lon="-75.2143809"/>
+            <trkpt lat="43.0809771" lon="-75.2147375"/>
+            <trkpt lat="43.0809029" lon="-75.2148249"/>
+            <trkpt lat="43.0808183" lon="-75.2148142"/>
+            <trkpt lat="43.0807779" lon="-75.2147429"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/134129368</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=baseball
+        </desc>
+        <link href="http://osm.org/browse/way/134129368"/>
+        <trkseg>
+            <trkpt lat="43.081593" lon="-75.2022793"/>
+            <trkpt lat="43.0811154" lon="-75.2027459"/>
+            <trkpt lat="43.0810283" lon="-75.2025347"/>
+            <trkpt lat="43.080986" lon="-75.2024155"/>
+            <trkpt lat="43.0809761" lon="-75.2021703"/>
+            <trkpt lat="43.0810084" lon="-75.201983"/>
+            <trkpt lat="43.081093" lon="-75.2017752"/>
+            <trkpt lat="43.0811801" lon="-75.2016458"/>
+            <trkpt lat="43.0812746" lon="-75.2015709"/>
+            <trkpt lat="43.0813166" lon="-75.2016461"/>
+            <trkpt lat="43.0816129" lon="-75.2021771"/>
+            <trkpt lat="43.081593" lon="-75.2022793"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/134129369</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=baseball
+        </desc>
+        <link href="http://osm.org/browse/way/134129369"/>
+        <trkseg>
+            <trkpt lat="43.0828542" lon="-75.1997862"/>
+            <trkpt lat="43.0828492" lon="-75.2010498"/>
+            <trkpt lat="43.0821029" lon="-75.2010464"/>
+            <trkpt lat="43.0821079" lon="-75.2008352"/>
+            <trkpt lat="43.0821278" lon="-75.2006343"/>
+            <trkpt lat="43.0821999" lon="-75.2003652"/>
+            <trkpt lat="43.0822746" lon="-75.2002086"/>
+            <trkpt lat="43.0824164" lon="-75.200028"/>
+            <trkpt lat="43.0825905" lon="-75.1998748"/>
+            <trkpt lat="43.0827422" lon="-75.1997965"/>
+            <trkpt lat="43.0828542" lon="-75.1997862"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/134129373</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=baseball
+        </desc>
+        <link href="http://osm.org/browse/way/134129373"/>
+        <trkseg>
+            <trkpt lat="43.1157019" lon="-75.2961812"/>
+            <trkpt lat="43.115574" lon="-75.2961939"/>
+            <trkpt lat="43.1148926" lon="-75.2954994"/>
+            <trkpt lat="43.114981" lon="-75.2953019"/>
+            <trkpt lat="43.1151508" lon="-75.2950502"/>
+            <trkpt lat="43.1153112" lon="-75.2949291"/>
+            <trkpt lat="43.115488" lon="-75.2948622"/>
+            <trkpt lat="43.1156229" lon="-75.2948559"/>
+            <trkpt lat="43.115781" lon="-75.2948782"/>
+            <trkpt lat="43.1159252" lon="-75.2949801"/>
+            <trkpt lat="43.1160554" lon="-75.2951107"/>
+            <trkpt lat="43.1161624" lon="-75.2952668"/>
+            <trkpt lat="43.1161927" lon="-75.2953529"/>
+            <trkpt lat="43.1157019" lon="-75.2961812"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/134129377</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=baseball
+        </desc>
+        <link href="http://osm.org/browse/way/134129377"/>
+        <trkseg>
+            <trkpt lat="43.0891756" lon="-75.1961238"/>
+            <trkpt lat="43.0892261" lon="-75.1960016"/>
+            <trkpt lat="43.0894343" lon="-75.1959813"/>
+            <trkpt lat="43.0898059" lon="-75.1959365"/>
+            <trkpt lat="43.0899575" lon="-75.1958999"/>
+            <trkpt lat="43.090121" lon="-75.1959772"/>
+            <trkpt lat="43.0901121" lon="-75.1963884"/>
+            <trkpt lat="43.0900586" lon="-75.196649"/>
+            <trkpt lat="43.0899813" lon="-75.1968485"/>
+            <trkpt lat="43.0899219" lon="-75.1969991"/>
+            <trkpt lat="43.0897108" lon="-75.1971864"/>
+            <trkpt lat="43.0895443" lon="-75.1972759"/>
+            <trkpt lat="43.0893421" lon="-75.1973614"/>
+            <trkpt lat="43.0892232" lon="-75.1972556"/>
+            <trkpt lat="43.0891756" lon="-75.1961238"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/134129383</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=baseball
+        </desc>
+        <link href="http://osm.org/browse/way/134129383"/>
+        <trkseg>
+            <trkpt lat="43.0768872" lon="-75.2149036"/>
+            <trkpt lat="43.0767669" lon="-75.2155357"/>
+            <trkpt lat="43.0766954" lon="-75.2156337"/>
+            <trkpt lat="43.0764612" lon="-75.2155577"/>
+            <trkpt lat="43.0760645" lon="-75.2154289"/>
+            <trkpt lat="43.0762206" lon="-75.2145474"/>
+            <trkpt lat="43.0768287" lon="-75.2147567"/>
+            <trkpt lat="43.0768872" lon="-75.2149036"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/134129386</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=baseball
+        </desc>
+        <link href="http://osm.org/browse/way/134129386"/>
+        <trkseg>
+            <trkpt lat="43.0815955" lon="-75.201799"/>
+            <trkpt lat="43.0813166" lon="-75.2016461"/>
+            <trkpt lat="43.0812746" lon="-75.2015709"/>
+            <trkpt lat="43.0813542" lon="-75.2012167"/>
+            <trkpt lat="43.0816427" lon="-75.2013018"/>
+            <trkpt lat="43.0816427" lon="-75.201765"/>
+            <trkpt lat="43.0815955" lon="-75.201799"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/134129388</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=baseball
+        </desc>
+        <link href="http://osm.org/browse/way/134129388"/>
+        <trkseg>
+            <trkpt lat="43.1266456" lon="-75.2984548"/>
+            <trkpt lat="43.1266323" lon="-75.298374"/>
+            <trkpt lat="43.1269747" lon="-75.2977068"/>
+            <trkpt lat="43.1271459" lon="-75.2978762"/>
+            <trkpt lat="43.1273152" lon="-75.2982176"/>
+            <trkpt lat="43.1272999" lon="-75.2985538"/>
+            <trkpt lat="43.1271915" lon="-75.2989161"/>
+            <trkpt lat="43.1266456" lon="-75.2984548"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/134129390</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=baseball
+        </desc>
+        <link href="http://osm.org/browse/way/134129390"/>
+        <trkseg>
+            <trkpt lat="43.0666902" lon="-75.2868537"/>
+            <trkpt lat="43.0665675" lon="-75.2872853"/>
+            <trkpt lat="43.0665102" lon="-75.2872832"/>
+            <trkpt lat="43.066327" lon="-75.2872134"/>
+            <trkpt lat="43.0662267" lon="-75.2870412"/>
+            <trkpt lat="43.0662537" lon="-75.2868231"/>
+            <trkpt lat="43.0663397" lon="-75.2866465"/>
+            <trkpt lat="43.0666838" lon="-75.2868079"/>
+            <trkpt lat="43.0666902" lon="-75.2868537"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/134129393</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=baseball
+        </desc>
+        <link href="http://osm.org/browse/way/134129393"/>
+        <trkseg>
+            <trkpt lat="43.1232646" lon="-75.3195735"/>
+            <trkpt lat="43.1230725" lon="-75.3202232"/>
+            <trkpt lat="43.1229777" lon="-75.3202065"/>
+            <trkpt lat="43.1228123" lon="-75.3200866"/>
+            <trkpt lat="43.1227078" lon="-75.3198067"/>
+            <trkpt lat="43.1227248" lon="-75.3194469"/>
+            <trkpt lat="43.1227856" lon="-75.3192737"/>
+            <trkpt lat="43.1232452" lon="-75.3194936"/>
+            <trkpt lat="43.1232646" lon="-75.3195735"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/134129394</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=baseball
+        </desc>
+        <link href="http://osm.org/browse/way/134129394"/>
+        <trkseg>
+            <trkpt lat="43.0811478" lon="-75.2129508"/>
+            <trkpt lat="43.0810839" lon="-75.2129276"/>
+            <trkpt lat="43.0808228" lon="-75.2122944"/>
+            <trkpt lat="43.0810308" lon="-75.2121373"/>
+            <trkpt lat="43.0812819" lon="-75.2121445"/>
+            <trkpt lat="43.0814992" lon="-75.2123353"/>
+            <trkpt lat="43.081561" lon="-75.2124711"/>
+            <trkpt lat="43.0815836" lon="-75.2125898"/>
+            <trkpt lat="43.0811478" lon="-75.2129508"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/134129397</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=baseball
+        </desc>
+        <link href="http://osm.org/browse/way/134129397"/>
+        <trkseg>
+            <trkpt lat="43.1173322" lon="-75.2822286"/>
+            <trkpt lat="43.1172754" lon="-75.2821273"/>
+            <trkpt lat="43.1172526" lon="-75.2810564"/>
+            <trkpt lat="43.1175682" lon="-75.2806903"/>
+            <trkpt lat="43.1178525" lon="-75.28085"/>
+            <trkpt lat="43.1180912" lon="-75.2811109"/>
+            <trkpt lat="43.1181822" lon="-75.2814302"/>
+            <trkpt lat="43.118259" lon="-75.2818353"/>
+            <trkpt lat="43.1182391" lon="-75.2821351"/>
+            <trkpt lat="43.1173322" lon="-75.2822286"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/134129399</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=baseball
+        </desc>
+        <link href="http://osm.org/browse/way/134129399"/>
+        <trkseg>
+            <trkpt lat="43.0818462" lon="-75.2140553"/>
+            <trkpt lat="43.0817689" lon="-75.2141166"/>
+            <trkpt lat="43.0816712" lon="-75.2140274"/>
+            <trkpt lat="43.0813619" lon="-75.2133336"/>
+            <trkpt lat="43.0815532" lon="-75.2131553"/>
+            <trkpt lat="43.0818442" lon="-75.2130689"/>
+            <trkpt lat="43.0820029" lon="-75.213147"/>
+            <trkpt lat="43.0821841" lon="-75.2133866"/>
+            <trkpt lat="43.0823123" lon="-75.2136875"/>
+            <trkpt lat="43.0818462" lon="-75.2140553"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/134129402</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=baseball
+        </desc>
+        <link href="http://osm.org/browse/way/134129402"/>
+        <trkseg>
+            <trkpt lat="43.0803443" lon="-75.2028582"/>
+            <trkpt lat="43.0803443" lon="-75.2027459"/>
+            <trkpt lat="43.0806477" lon="-75.202378"/>
+            <trkpt lat="43.0807547" lon="-75.2025551"/>
+            <trkpt lat="43.080792" lon="-75.202722"/>
+            <trkpt lat="43.0807945" lon="-75.2028685"/>
+            <trkpt lat="43.0807497" lon="-75.2030422"/>
+            <trkpt lat="43.0806627" lon="-75.2031954"/>
+            <trkpt lat="43.080588" lon="-75.2032397"/>
+            <trkpt lat="43.0803443" lon="-75.2028582"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/134129406</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=baseball
+        </desc>
+        <link href="http://osm.org/browse/way/134129406"/>
+        <trkseg>
+            <trkpt lat="43.0804015" lon="-75.213566"/>
+            <trkpt lat="43.0803377" lon="-75.2135428"/>
+            <trkpt lat="43.0800551" lon="-75.2128601"/>
+            <trkpt lat="43.0801031" lon="-75.212816"/>
+            <trkpt lat="43.0802604" lon="-75.2127371"/>
+            <trkpt lat="43.0804528" lon="-75.2127143"/>
+            <trkpt lat="43.0806967" lon="-75.2128471"/>
+            <trkpt lat="43.080831" lon="-75.2130404"/>
+            <trkpt lat="43.0808111" lon="-75.2132387"/>
+            <trkpt lat="43.0804015" lon="-75.213566"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/134129407</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=baseball
+        </desc>
+        <link href="http://osm.org/browse/way/134129407"/>
+        <trkseg>
+            <trkpt lat="43.0819736" lon="-75.2020204"/>
+            <trkpt lat="43.0819015" lon="-75.2020102"/>
+            <trkpt lat="43.0816427" lon="-75.2013018"/>
+            <trkpt lat="43.0817497" lon="-75.2012133"/>
+            <trkpt lat="43.0819139" lon="-75.2011724"/>
+            <trkpt lat="43.0820706" lon="-75.2011724"/>
+            <trkpt lat="43.0822248" lon="-75.2012439"/>
+            <trkpt lat="43.0823567" lon="-75.2014108"/>
+            <trkpt lat="43.0824288" lon="-75.2015266"/>
+            <trkpt lat="43.0819736" lon="-75.2020204"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/134376220</name>
+        <desc>leisure=pitch
+            sport=tennis
+        </desc>
+        <link href="http://osm.org/browse/way/134376220"/>
+        <trkseg>
+            <trkpt lat="43.066267" lon="-75.3206443"/>
+            <trkpt lat="43.0659558" lon="-75.3205244"/>
+            <trkpt lat="43.0660549" lon="-75.3200952"/>
+            <trkpt lat="43.06635" lon="-75.320234"/>
+            <trkpt lat="43.066267" lon="-75.3206443"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>Yahnundasis Golf Club</name>
+        <desc>leisure=golf_course
+            name=Yahnundasis Golf Club
+        </desc>
+        <link href="http://osm.org/browse/way/134376221"/>
+        <trkseg>
+            <trkpt lat="43.0780429" lon="-75.3100129"/>
+            <trkpt lat="43.077982" lon="-75.3098462"/>
+            <trkpt lat="43.0779908" lon="-75.3093157"/>
+            <trkpt lat="43.0782374" lon="-75.3088877"/>
+            <trkpt lat="43.0782858" lon="-75.3085321"/>
+            <trkpt lat="43.0780833" lon="-75.3080559"/>
+            <trkpt lat="43.0782726" lon="-75.3077787"/>
+            <trkpt lat="43.0783827" lon="-75.3073567"/>
+            <trkpt lat="43.0782638" lon="-75.3070975"/>
+            <trkpt lat="43.0780921" lon="-75.3062054"/>
+            <trkpt lat="43.0782858" lon="-75.3050903"/>
+            <trkpt lat="43.0786997" lon="-75.3040656"/>
+            <trkpt lat="43.0801325" lon="-75.3013245"/>
+            <trkpt lat="43.0838815" lon="-75.3019367"/>
+            <trkpt lat="43.0840276" lon="-75.3026313"/>
+            <trkpt lat="43.0834688" lon="-75.3049859"/>
+            <trkpt lat="43.082093" lon="-75.3070461"/>
+            <trkpt lat="43.0835117" lon="-75.3070226"/>
+            <trkpt lat="43.0837697" lon="-75.3081998"/>
+            <trkpt lat="43.084449" lon="-75.3083764"/>
+            <trkpt lat="43.0848273" lon="-75.3079408"/>
+            <trkpt lat="43.0844662" lon="-75.3053626"/>
+            <trkpt lat="43.0851196" lon="-75.3045032"/>
+            <trkpt lat="43.0886792" lon="-75.3054803"/>
+            <trkpt lat="43.0886878" lon="-75.3067282"/>
+            <trkpt lat="43.0879741" lon="-75.3066223"/>
+            <trkpt lat="43.0855323" lon="-75.3058453"/>
+            <trkpt lat="43.0855753" lon="-75.3076936"/>
+            <trkpt lat="43.0882579" lon="-75.3073875"/>
+            <trkpt lat="43.0882149" lon="-75.3084471"/>
+            <trkpt lat="43.0880429" lon="-75.3099658"/>
+            <trkpt lat="43.0869252" lon="-75.3108723"/>
+            <trkpt lat="43.0855753" lon="-75.3110253"/>
+            <trkpt lat="43.084277" lon="-75.3105191"/>
+            <trkpt lat="43.0825143" lon="-75.3102954"/>
+            <trkpt lat="43.0813793" lon="-75.3104131"/>
+            <trkpt lat="43.0813105" lon="-75.3111784"/>
+            <trkpt lat="43.0808376" lon="-75.3113196"/>
+            <trkpt lat="43.0794274" lon="-75.3110253"/>
+            <trkpt lat="43.0787222" lon="-75.3103425"/>
+            <trkpt lat="43.0780429" lon="-75.3100129"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/134376223</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=baseball
+        </desc>
+        <link href="http://osm.org/browse/way/134376223"/>
+        <trkseg>
+            <trkpt lat="43.0654215" lon="-75.3171838"/>
+            <trkpt lat="43.0654417" lon="-75.3170536"/>
+            <trkpt lat="43.0659172" lon="-75.3167025"/>
+            <trkpt lat="43.0660411" lon="-75.3170654"/>
+            <trkpt lat="43.0659806" lon="-75.3175743"/>
+            <trkpt lat="43.0657241" lon="-75.3177084"/>
+            <trkpt lat="43.0654215" lon="-75.3171838"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/134376224</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=baseball
+        </desc>
+        <link href="http://osm.org/browse/way/134376224"/>
+        <trkseg>
+            <trkpt lat="43.0667386" lon="-75.3169471"/>
+            <trkpt lat="43.0663985" lon="-75.3173021"/>
+            <trkpt lat="43.06624" lon="-75.3169274"/>
+            <trkpt lat="43.0663149" lon="-75.3165842"/>
+            <trkpt lat="43.0665051" lon="-75.3164421"/>
+            <trkpt lat="43.0667472" lon="-75.3168485"/>
+            <trkpt lat="43.0667386" lon="-75.3169471"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/134376397</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=baseball
+        </desc>
+        <link href="http://osm.org/browse/way/134376397"/>
+        <trkseg>
+            <trkpt lat="43.0842942" lon="-75.2847792"/>
+            <trkpt lat="43.0840041" lon="-75.2850504"/>
+            <trkpt lat="43.0839682" lon="-75.2850569"/>
+            <trkpt lat="43.0838789" lon="-75.285122"/>
+            <trkpt lat="43.0838278" lon="-75.2850227"/>
+            <trkpt lat="43.0837951" lon="-75.2848262"/>
+            <trkpt lat="43.0837982" lon="-75.284602"/>
+            <trkpt lat="43.0838356" lon="-75.2844439"/>
+            <trkpt lat="43.0839199" lon="-75.2842859"/>
+            <trkpt lat="43.0840509" lon="-75.2841663"/>
+            <trkpt lat="43.0843051" lon="-75.2847152"/>
+            <trkpt lat="43.0842942" lon="-75.2847792"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/134376398</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=baseball
+        </desc>
+        <link href="http://osm.org/browse/way/134376398"/>
+        <trkseg>
+            <trkpt lat="43.0841913" lon="-75.2858214"/>
+            <trkpt lat="43.0840899" lon="-75.2858961"/>
+            <trkpt lat="43.0836844" lon="-75.2861204"/>
+            <trkpt lat="43.0836251" lon="-75.2859026"/>
+            <trkpt lat="43.0836142" lon="-75.2857168"/>
+            <trkpt lat="43.0836454" lon="-75.2855224"/>
+            <trkpt lat="43.0837311" lon="-75.285296"/>
+            <trkpt lat="43.0838481" lon="-75.2851444"/>
+            <trkpt lat="43.0838789" lon="-75.285122"/>
+            <trkpt lat="43.0839682" lon="-75.2850569"/>
+            <trkpt lat="43.0841554" lon="-75.2855181"/>
+            <trkpt lat="43.0842209" lon="-75.2857445"/>
+            <trkpt lat="43.0841913" lon="-75.2858214"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/134376399</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=baseball
+        </desc>
+        <link href="http://osm.org/browse/way/134376399"/>
+        <trkseg>
+            <trkpt lat="43.0824958" lon="-75.2851759"/>
+            <trkpt lat="43.0825105" lon="-75.285019"/>
+            <trkpt lat="43.082703" lon="-75.2848021"/>
+            <trkpt lat="43.0832099" lon="-75.2843483"/>
+            <trkpt lat="43.0833732" lon="-75.2847421"/>
+            <trkpt lat="43.0834171" lon="-75.2850257"/>
+            <trkpt lat="43.0834268" lon="-75.2852259"/>
+            <trkpt lat="43.0833757" lon="-75.2854728"/>
+            <trkpt lat="43.0833269" lon="-75.2856464"/>
+            <trkpt lat="43.0832319" lon="-75.2858733"/>
+            <trkpt lat="43.0830271" lon="-75.2861002"/>
+            <trkpt lat="43.0825836" lon="-75.2854295"/>
+            <trkpt lat="43.0824958" lon="-75.2851759"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/134376400</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=baseball
+        </desc>
+        <link href="http://osm.org/browse/way/134376400"/>
+        <trkseg>
+            <trkpt lat="43.0831244" lon="-75.2863019"/>
+            <trkpt lat="43.0830994" lon="-75.2862208"/>
+            <trkpt lat="43.083115" lon="-75.2861033"/>
+            <trkpt lat="43.0833007" lon="-75.2858513"/>
+            <trkpt lat="43.0835065" lon="-75.2859709"/>
+            <trkpt lat="43.0835314" lon="-75.2862715"/>
+            <trkpt lat="43.0833243" lon="-75.2863838"/>
+            <trkpt lat="43.0831244" lon="-75.2863019"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/134376402</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=baseball
+        </desc>
+        <link href="http://osm.org/browse/way/134376402"/>
+        <trkseg>
+            <trkpt lat="43.0836703" lon="-75.2837584"/>
+            <trkpt lat="43.0836422" lon="-75.2836623"/>
+            <trkpt lat="43.0836968" lon="-75.2834872"/>
+            <trkpt lat="43.0839651" lon="-75.2831775"/>
+            <trkpt lat="43.0841694" lon="-75.2834594"/>
+            <trkpt lat="43.0841897" lon="-75.2837734"/>
+            <trkpt lat="43.0840493" lon="-75.2840318"/>
+            <trkpt lat="43.0836703" lon="-75.2837584"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/134376403</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=baseball
+        </desc>
+        <link href="http://osm.org/browse/way/134376403"/>
+        <trkseg>
+            <trkpt lat="43.0835596" lon="-75.2834167"/>
+            <trkpt lat="43.0834785" lon="-75.283374"/>
+            <trkpt lat="43.0832913" lon="-75.2828657"/>
+            <trkpt lat="43.0834941" lon="-75.2827141"/>
+            <trkpt lat="43.0836828" lon="-75.2827397"/>
+            <trkpt lat="43.0838169" lon="-75.2828102"/>
+            <trkpt lat="43.083937" lon="-75.2830643"/>
+            <trkpt lat="43.0839557" lon="-75.2831391"/>
+            <trkpt lat="43.0835596" lon="-75.2834167"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/134376404</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=baseball
+        </desc>
+        <link href="http://osm.org/browse/way/134376404"/>
+        <trkseg>
+            <trkpt lat="43.0832343" lon="-75.2842015"/>
+            <trkpt lat="43.0832635" lon="-75.2841147"/>
+            <trkpt lat="43.0838192" lon="-75.2839512"/>
+            <trkpt lat="43.0838436" lon="-75.2842782"/>
+            <trkpt lat="43.0837656" lon="-75.2845719"/>
+            <trkpt lat="43.083683" lon="-75.2847155"/>
+            <trkpt lat="43.0835551" lon="-75.2848442"/>
+            <trkpt lat="43.0834276" lon="-75.2849176"/>
+            <trkpt lat="43.0833732" lon="-75.2847421"/>
+            <trkpt lat="43.0832343" lon="-75.2842015"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/134377982</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=baseball
+        </desc>
+        <link href="http://osm.org/browse/way/134377982"/>
+        <trkseg>
+            <trkpt lat="43.1186461" lon="-75.2068412"/>
+            <trkpt lat="43.1182187" lon="-75.206294"/>
+            <trkpt lat="43.118308" lon="-75.2061485"/>
+            <trkpt lat="43.1184449" lon="-75.2060567"/>
+            <trkpt lat="43.1185371" lon="-75.2060069"/>
+            <trkpt lat="43.118674" lon="-75.205984"/>
+            <trkpt lat="43.1188137" lon="-75.2060146"/>
+            <trkpt lat="43.1189701" lon="-75.2061064"/>
+            <trkpt lat="43.119093" lon="-75.2062098"/>
+            <trkpt lat="43.1187243" lon="-75.2068259"/>
+            <trkpt lat="43.1186461" lon="-75.2068412"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/134377985</name>
+        <desc>leisure=pitch
+            sport=tennis
+        </desc>
+        <link href="http://osm.org/browse/way/134377985"/>
+        <trkseg>
+            <trkpt lat="43.117895" lon="-75.2062028"/>
+            <trkpt lat="43.1177587" lon="-75.205869"/>
+            <trkpt lat="43.1178928" lon="-75.2057711"/>
+            <trkpt lat="43.1180336" lon="-75.2060956"/>
+            <trkpt lat="43.117895" lon="-75.2062028"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/134377986</name>
+        <desc>leisure=pitch
+            sport=tennis
+        </desc>
+        <link href="http://osm.org/browse/way/134377986"/>
+        <trkseg>
+            <trkpt lat="43.1001583" lon="-75.2256642"/>
+            <trkpt lat="43.1000538" lon="-75.2253487"/>
+            <trkpt lat="43.1003519" lon="-75.2251634"/>
+            <trkpt lat="43.1004564" lon="-75.2254789"/>
+            <trkpt lat="43.1001583" lon="-75.2256642"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/134377989</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=baseball
+        </desc>
+        <link href="http://osm.org/browse/way/134377989"/>
+        <trkseg>
+            <trkpt lat="43.0762639" lon="-75.212944"/>
+            <trkpt lat="43.076468" lon="-75.2131959"/>
+            <trkpt lat="43.0762639" lon="-75.2135737"/>
+            <trkpt lat="43.0760138" lon="-75.2132746"/>
+            <trkpt lat="43.0762639" lon="-75.212944"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/134377990</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=basketball
+        </desc>
+        <link href="http://osm.org/browse/way/134377990"/>
+        <trkseg>
+            <trkpt lat="43.1175531" lon="-75.2064875"/>
+            <trkpt lat="43.1174145" lon="-75.2061721"/>
+            <trkpt lat="43.1176917" lon="-75.2059486"/>
+            <trkpt lat="43.1178392" lon="-75.2062487"/>
+            <trkpt lat="43.1175531" lon="-75.2064875"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/134377992</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=baseball
+        </desc>
+        <link href="http://osm.org/browse/way/134377992"/>
+        <trkseg>
+            <trkpt lat="43.1193081" lon="-75.2055783"/>
+            <trkpt lat="43.1188891" lon="-75.2059993"/>
+            <trkpt lat="43.1188109" lon="-75.2059648"/>
+            <trkpt lat="43.1187187" lon="-75.2056931"/>
+            <trkpt lat="43.1187103" lon="-75.2054941"/>
+            <trkpt lat="43.1187718" lon="-75.2051956"/>
+            <trkpt lat="43.11885" lon="-75.2050081"/>
+            <trkpt lat="43.1190036" lon="-75.2048818"/>
+            <trkpt lat="43.1193193" lon="-75.2054903"/>
+            <trkpt lat="43.1193081" lon="-75.2055783"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/134377994</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=baseball
+        </desc>
+        <link href="http://osm.org/browse/way/134377994"/>
+        <trkseg>
+            <trkpt lat="43.119931" lon="-75.2061217"/>
+            <trkpt lat="43.1194506" lon="-75.2064891"/>
+            <trkpt lat="43.1193863" lon="-75.2063475"/>
+            <trkpt lat="43.11935" lon="-75.2060337"/>
+            <trkpt lat="43.1193779" lon="-75.2058309"/>
+            <trkpt lat="43.1194645" lon="-75.2056242"/>
+            <trkpt lat="43.1195344" lon="-75.2055018"/>
+            <trkpt lat="43.119621" lon="-75.2054291"/>
+            <trkpt lat="43.1199534" lon="-75.2060414"/>
+            <trkpt lat="43.119931" lon="-75.2061217"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/135911005</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=baseball
+        </desc>
+        <link href="http://osm.org/browse/way/135911005"/>
+        <trkseg>
+            <trkpt lat="43.0907316" lon="-75.2908698"/>
+            <trkpt lat="43.0900967" lon="-75.2917443"/>
+            <trkpt lat="43.0900012" lon="-75.2916639"/>
+            <trkpt lat="43.089759" lon="-75.2913573"/>
+            <trkpt lat="43.0896122" lon="-75.2910206"/>
+            <trkpt lat="43.0896159" lon="-75.290714"/>
+            <trkpt lat="43.0897076" lon="-75.2903873"/>
+            <trkpt lat="43.0898654" lon="-75.2900908"/>
+            <trkpt lat="43.0900453" lon="-75.2898898"/>
+            <trkpt lat="43.0907243" lon="-75.2907291"/>
+            <trkpt lat="43.0907316" lon="-75.2908698"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/135911007</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=baseball
+        </desc>
+        <link href="http://osm.org/browse/way/135911007"/>
+        <trkseg>
+            <trkpt lat="43.0932005" lon="-75.2824559"/>
+            <trkpt lat="43.0929627" lon="-75.2829163"/>
+            <trkpt lat="43.0926672" lon="-75.2836762"/>
+            <trkpt lat="43.0926264" lon="-75.28364"/>
+            <trkpt lat="43.0921148" lon="-75.2829821"/>
+            <trkpt lat="43.0920259" lon="-75.2826072"/>
+            <trkpt lat="43.0920283" lon="-75.2823506"/>
+            <trkpt lat="43.0920956" lon="-75.2821072"/>
+            <trkpt lat="43.0922661" lon="-75.2818079"/>
+            <trkpt lat="43.0924126" lon="-75.2817454"/>
+            <trkpt lat="43.093138" lon="-75.2822124"/>
+            <trkpt lat="43.0932005" lon="-75.2824559"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/135911011</name>
+        <desc>leisure=pitch
+            sport=tennis
+        </desc>
+        <link href="http://osm.org/browse/way/135911011"/>
+        <trkseg>
+            <trkpt lat="43.0899291" lon="-75.2889078"/>
+            <trkpt lat="43.0896002" lon="-75.2889361"/>
+            <trkpt lat="43.0895589" lon="-75.2883931"/>
+            <trkpt lat="43.0898802" lon="-75.2883468"/>
+            <trkpt lat="43.0899291" lon="-75.2889078"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/135911012</name>
+        <desc>leisure=pitch
+            sport=tennis
+        </desc>
+        <link href="http://osm.org/browse/way/135911012"/>
+        <trkseg>
+            <trkpt lat="43.0610375" lon="-75.2957357"/>
+            <trkpt lat="43.0607174" lon="-75.295702"/>
+            <trkpt lat="43.0607392" lon="-75.2953146"/>
+            <trkpt lat="43.0610593" lon="-75.2953483"/>
+            <trkpt lat="43.0610375" lon="-75.2957357"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/135911025</name>
+        <desc>leisure=pitch
+            sport=swimming
+        </desc>
+        <link href="http://osm.org/browse/way/135911025"/>
+        <trkseg>
+            <trkpt lat="43.0606705" lon="-75.2955431"/>
+            <trkpt lat="43.0605253" lon="-75.2955376"/>
+            <trkpt lat="43.0605306" lon="-75.2954455"/>
+            <trkpt lat="43.0603894" lon="-75.2954308"/>
+            <trkpt lat="43.0604002" lon="-75.2952191"/>
+            <trkpt lat="43.0606853" lon="-75.2952283"/>
+            <trkpt lat="43.0606705" lon="-75.2955431"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/135911040</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=baseball
+        </desc>
+        <link href="http://osm.org/browse/way/135911040"/>
+        <trkseg>
+            <trkpt lat="43.0890966" lon="-75.2894335"/>
+            <trkpt lat="43.0886437" lon="-75.2895029"/>
+            <trkpt lat="43.0886042" lon="-75.2893949"/>
+            <trkpt lat="43.0886117" lon="-75.288978"/>
+            <trkpt lat="43.088685" lon="-75.288821"/>
+            <trkpt lat="43.0888617" lon="-75.2886821"/>
+            <trkpt lat="43.0890891" lon="-75.2886563"/>
+            <trkpt lat="43.0891661" lon="-75.2893254"/>
+            <trkpt lat="43.0890966" lon="-75.2894335"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/136056561</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=american_football
+        </desc>
+        <link href="http://osm.org/browse/way/136056561"/>
+        <trkseg>
+            <trkpt lat="43.0700457" lon="-75.2828062"/>
+            <trkpt lat="43.069903" lon="-75.2834834"/>
+            <trkpt lat="43.0688946" lon="-75.2831123"/>
+            <trkpt lat="43.0690658" lon="-75.282409"/>
+            <trkpt lat="43.0700457" lon="-75.2828062"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/136056571</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=tennis
+        </desc>
+        <link href="http://osm.org/browse/way/136056571"/>
+        <trkseg>
+            <trkpt lat="43.02303" lon="-75.2651989"/>
+            <trkpt lat="43.0228296" lon="-75.2648355"/>
+            <trkpt lat="43.0230883" lon="-75.2645804"/>
+            <trkpt lat="43.0232841" lon="-75.2649215"/>
+            <trkpt lat="43.02303" lon="-75.2651989"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/136056572</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=soccer
+        </desc>
+        <link href="http://osm.org/browse/way/136056572"/>
+        <trkseg>
+            <trkpt lat="43.0272241" lon="-75.2673214"/>
+            <trkpt lat="43.0268904" lon="-75.2665461"/>
+            <trkpt lat="43.0271868" lon="-75.2663114"/>
+            <trkpt lat="43.0275075" lon="-75.2670791"/>
+            <trkpt lat="43.0272241" lon="-75.2673214"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/136056583</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=tennis
+        </desc>
+        <link href="http://osm.org/browse/way/136056583"/>
+        <trkseg>
+            <trkpt lat="43.0708854" lon="-75.2838843"/>
+            <trkpt lat="43.0702248" lon="-75.2836509"/>
+            <trkpt lat="43.0703861" lon="-75.2829008"/>
+            <trkpt lat="43.0707058" lon="-75.2830216"/>
+            <trkpt lat="43.0706388" lon="-75.283355"/>
+            <trkpt lat="43.0709584" lon="-75.283505"/>
+            <trkpt lat="43.0708854" lon="-75.2838843"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/136056596</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=baseball
+        </desc>
+        <link href="http://osm.org/browse/way/136056596"/>
+        <trkseg>
+            <trkpt lat="43.0446513" lon="-75.2752895"/>
+            <trkpt lat="43.0447444" lon="-75.2752029"/>
+            <trkpt lat="43.0452358" lon="-75.2752946"/>
+            <trkpt lat="43.0452135" lon="-75.2755951"/>
+            <trkpt lat="43.045113" lon="-75.2757938"/>
+            <trkpt lat="43.0449603" lon="-75.2759772"/>
+            <trkpt lat="43.0447779" lon="-75.2760485"/>
+            <trkpt lat="43.0446588" lon="-75.2760383"/>
+            <trkpt lat="43.0446327" lon="-75.2754831"/>
+            <trkpt lat="43.0446513" lon="-75.2752895"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/136056598</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=baseball
+        </desc>
+        <link href="http://osm.org/browse/way/136056598"/>
+        <trkseg>
+            <trkpt lat="43.0225568" lon="-75.2645868"/>
+            <trkpt lat="43.0219881" lon="-75.2652499"/>
+            <trkpt lat="43.0218762" lon="-75.2650873"/>
+            <trkpt lat="43.0217853" lon="-75.2647653"/>
+            <trkpt lat="43.0217457" lon="-75.2644593"/>
+            <trkpt lat="43.0218413" lon="-75.2641851"/>
+            <trkpt lat="43.0219905" lon="-75.2639523"/>
+            <trkpt lat="43.0221" lon="-75.2638344"/>
+            <trkpt lat="43.0225638" lon="-75.2644848"/>
+            <trkpt lat="43.0225568" lon="-75.2645868"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/136056599</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=baseball
+        </desc>
+        <link href="http://osm.org/browse/way/136056599"/>
+        <trkseg>
+            <trkpt lat="43.0439552" lon="-75.2752334"/>
+            <trkpt lat="43.0440482" lon="-75.2751468"/>
+            <trkpt lat="43.0445397" lon="-75.2752385"/>
+            <trkpt lat="43.0445173" lon="-75.2755391"/>
+            <trkpt lat="43.0444168" lon="-75.2757378"/>
+            <trkpt lat="43.0442642" lon="-75.2759211"/>
+            <trkpt lat="43.0440817" lon="-75.2759925"/>
+            <trkpt lat="43.0439626" lon="-75.2759823"/>
+            <trkpt lat="43.0439366" lon="-75.275427"/>
+            <trkpt lat="43.0439552" lon="-75.2752334"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/136056600</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=baseball
+        </desc>
+        <link href="http://osm.org/browse/way/136056600"/>
+        <trkseg>
+            <trkpt lat="43.0430412" lon="-75.2750959"/>
+            <trkpt lat="43.0431343" lon="-75.2750093"/>
+            <trkpt lat="43.0436257" lon="-75.275101"/>
+            <trkpt lat="43.0436034" lon="-75.2754015"/>
+            <trkpt lat="43.0435028" lon="-75.2756002"/>
+            <trkpt lat="43.0433502" lon="-75.2757836"/>
+            <trkpt lat="43.0431678" lon="-75.2758549"/>
+            <trkpt lat="43.0430486" lon="-75.2758447"/>
+            <trkpt lat="43.0430226" lon="-75.2752895"/>
+            <trkpt lat="43.0430412" lon="-75.2750959"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/136665268</name>
+        <desc>leisure=golf_course
+            source=Bing
+        </desc>
+        <link href="http://osm.org/browse/way/136665268"/>
+        <trkseg>
+            <trkpt lat="43.1065161" lon="-75.3149906"/>
+            <trkpt lat="43.1062312" lon="-75.315388"/>
+            <trkpt lat="43.1051329" lon="-75.3163246"/>
+            <trkpt lat="43.1041953" lon="-75.3172257"/>
+            <trkpt lat="43.1031125" lon="-75.3150048"/>
+            <trkpt lat="43.1027447" lon="-75.3151467"/>
+            <trkpt lat="43.1018899" lon="-75.3158421"/>
+            <trkpt lat="43.1004237" lon="-75.3172115"/>
+            <trkpt lat="43.1000404" lon="-75.3188364"/>
+            <trkpt lat="43.0997399" lon="-75.3189215"/>
+            <trkpt lat="43.0994653" lon="-75.3180985"/>
+            <trkpt lat="43.0995844" lon="-75.3162891"/>
+            <trkpt lat="43.099973" lon="-75.313458"/>
+            <trkpt lat="43.100688" lon="-75.3123227"/>
+            <trkpt lat="43.1012423" lon="-75.3126917"/>
+            <trkpt lat="43.1019262" lon="-75.3116983"/>
+            <trkpt lat="43.1026359" lon="-75.3090304"/>
+            <trkpt lat="43.1037394" lon="-75.3098464"/>
+            <trkpt lat="43.1038585" lon="-75.310336"/>
+            <trkpt lat="43.1039362" lon="-75.3113861"/>
+            <trkpt lat="43.1037187" lon="-75.3115139"/>
+            <trkpt lat="43.1035011" lon="-75.3112584"/>
+            <trkpt lat="43.1032524" lon="-75.3109959"/>
+            <trkpt lat="43.102926" lon="-75.3110739"/>
+            <trkpt lat="43.1027654" lon="-75.3113152"/>
+            <trkpt lat="43.1025945" lon="-75.3118899"/>
+            <trkpt lat="43.1029001" lon="-75.312117"/>
+            <trkpt lat="43.1035114" lon="-75.3124505"/>
+            <trkpt lat="43.1036669" lon="-75.3117977"/>
+            <trkpt lat="43.1038689" lon="-75.3120389"/>
+            <trkpt lat="43.1043248" lon="-75.3118828"/>
+            <trkpt lat="43.1049413" lon="-75.3117267"/>
+            <trkpt lat="43.1059722" lon="-75.3121525"/>
+            <trkpt lat="43.1067544" lon="-75.313458"/>
+            <trkpt lat="43.1065161" lon="-75.3149906"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/136665269</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=tennis
+        </desc>
+        <link href="http://osm.org/browse/way/136665269"/>
+        <trkseg>
+            <trkpt lat="43.1174085" lon="-75.2000318"/>
+            <trkpt lat="43.1168551" lon="-75.2004983"/>
+            <trkpt lat="43.1166337" lon="-75.2000201"/>
+            <trkpt lat="43.1171999" lon="-75.1995477"/>
+            <trkpt lat="43.1174085" lon="-75.2000318"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/136665270</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=tennis
+        </desc>
+        <link href="http://osm.org/browse/way/136665270"/>
+        <trkseg>
+            <trkpt lat="43.1032316" lon="-75.3118227"/>
+            <trkpt lat="43.1029335" lon="-75.3116704"/>
+            <trkpt lat="43.1031084" lon="-75.3110469"/>
+            <trkpt lat="43.1034035" lon="-75.3112065"/>
+            <trkpt lat="43.1032316" lon="-75.3118227"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/136665273</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=basketball
+        </desc>
+        <link href="http://osm.org/browse/way/136665273"/>
+        <trkseg>
+            <trkpt lat="43.1079194" lon="-75.3174474"/>
+            <trkpt lat="43.1077709" lon="-75.3174147"/>
+            <trkpt lat="43.1078027" lon="-75.3170914"/>
+            <trkpt lat="43.1079512" lon="-75.3171132"/>
+            <trkpt lat="43.1079194" lon="-75.3174474"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/136665277</name>
+        <desc>leisure=golf_course
+            source=Bing
+        </desc>
+        <link href="http://osm.org/browse/way/136665277"/>
+        <trkseg>
+            <trkpt lat="43.025135" lon="-75.2012494"/>
+            <trkpt lat="43.025771" lon="-75.200017"/>
+            <trkpt lat="43.0261552" lon="-75.199872"/>
+            <trkpt lat="43.0272019" lon="-75.2020891"/>
+            <trkpt lat="43.0278334" lon="-75.2035149"/>
+            <trkpt lat="43.0283589" lon="-75.2037142"/>
+            <trkpt lat="43.0288491" lon="-75.2027054"/>
+            <trkpt lat="43.0294188" lon="-75.2024637"/>
+            <trkpt lat="43.0297633" lon="-75.2034001"/>
+            <trkpt lat="43.0300945" lon="-75.204264"/>
+            <trkpt lat="43.030832" lon="-75.2045721"/>
+            <trkpt lat="43.0310926" lon="-75.2038532"/>
+            <trkpt lat="43.031097" lon="-75.2028081"/>
+            <trkpt lat="43.0309247" lon="-75.2017508"/>
+            <trkpt lat="43.0311676" lon="-75.2011467"/>
+            <trkpt lat="43.0320332" lon="-75.2021435"/>
+            <trkpt lat="43.0326912" lon="-75.2035693"/>
+            <trkpt lat="43.033093" lon="-75.2048379"/>
+            <trkpt lat="43.0332785" lon="-75.205877"/>
+            <trkpt lat="43.0328943" lon="-75.2060643"/>
+            <trkpt lat="43.0327574" lon="-75.2061006"/>
+            <trkpt lat="43.032753" lon="-75.2062939"/>
+            <trkpt lat="43.0324836" lon="-75.2064751"/>
+            <trkpt lat="43.0320067" lon="-75.2066926"/>
+            <trkpt lat="43.0321436" lon="-75.2074176"/>
+            <trkpt lat="43.0323644" lon="-75.2077498"/>
+            <trkpt lat="43.032806" lon="-75.2078465"/>
+            <trkpt lat="43.0336273" lon="-75.2075867"/>
+            <trkpt lat="43.0346651" lon="-75.2101724"/>
+            <trkpt lat="43.0359015" lon="-75.2125043"/>
+            <trkpt lat="43.0361178" lon="-75.2132897"/>
+            <trkpt lat="43.035376" lon="-75.2145765"/>
+            <trkpt lat="43.0340159" lon="-75.2164191"/>
+            <trkpt lat="43.0313443" lon="-75.2104321"/>
+            <trkpt lat="43.0297147" lon="-75.2115981"/>
+            <trkpt lat="43.0286725" lon="-75.2088795"/>
+            <trkpt lat="43.0281911" lon="-75.2076834"/>
+            <trkpt lat="43.0275773" lon="-75.2061851"/>
+            <trkpt lat="43.0267646" lon="-75.2044332"/>
+            <trkpt lat="43.0257047" lon="-75.2053514"/>
+            <trkpt lat="43.0249053" lon="-75.2037686"/>
+            <trkpt lat="43.0246624" lon="-75.2029833"/>
+            <trkpt lat="43.0246801" lon="-75.2019502"/>
+            <trkpt lat="43.0249274" lon="-75.2014729"/>
+            <trkpt lat="43.025135" lon="-75.2012494"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/136665283</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=baseball
+        </desc>
+        <link href="http://osm.org/browse/way/136665283"/>
+        <trkseg>
+            <trkpt lat="43.0740374" lon="-75.3231308"/>
+            <trkpt lat="43.0740089" lon="-75.323039"/>
+            <trkpt lat="43.0741586" lon="-75.3226936"/>
+            <trkpt lat="43.0743852" lon="-75.3228575"/>
+            <trkpt lat="43.0744066" lon="-75.3230137"/>
+            <trkpt lat="43.0743068" lon="-75.3233045"/>
+            <trkpt lat="43.0740374" lon="-75.3231308"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/136665288</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=baseball
+        </desc>
+        <link href="http://osm.org/browse/way/136665288"/>
+        <trkseg>
+            <trkpt lat="43.1167764" lon="-75.1982743"/>
+            <trkpt lat="43.1167892" lon="-75.1981169"/>
+            <trkpt lat="43.1172149" lon="-75.1977903"/>
+            <trkpt lat="43.1172958" lon="-75.1980119"/>
+            <trkpt lat="43.1172702" lon="-75.1984434"/>
+            <trkpt lat="43.1172021" lon="-75.1986009"/>
+            <trkpt lat="43.1170233" lon="-75.1987875"/>
+            <trkpt lat="43.1167764" lon="-75.1982743"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/136665296</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=baseball
+        </desc>
+        <link href="http://osm.org/browse/way/136665296"/>
+        <trkseg>
+            <trkpt lat="43.1183174" lon="-75.1980177"/>
+            <trkpt lat="43.1181344" lon="-75.1989683"/>
+            <trkpt lat="43.1179982" lon="-75.1990908"/>
+            <trkpt lat="43.1177726" lon="-75.1990441"/>
+            <trkpt lat="43.1174448" lon="-75.1988633"/>
+            <trkpt lat="43.1172702" lon="-75.1984434"/>
+            <trkpt lat="43.1173298" lon="-75.1977203"/>
+            <trkpt lat="43.1173894" lon="-75.1976037"/>
+            <trkpt lat="43.1182536" lon="-75.1978544"/>
+            <trkpt lat="43.1183174" lon="-75.1980177"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>Charles A Gaetano Stadium</name>
+        <desc>ele=163
+            gnis:county_id=065
+            gnis:created=06/16/2008
+            gnis:feature_id=2436331
+            gnis:state_id=36
+            leisure=pitch
+            name=Charles A Gaetano Stadium
+            sport=american_football
+        </desc>
+        <link href="http://osm.org/browse/way/137877166"/>
+        <trkseg>
+            <trkpt lat="43.0991272" lon="-75.2696481"/>
+            <trkpt lat="43.0985217" lon="-75.269597"/>
+            <trkpt lat="43.0985831" lon="-75.2681518"/>
+            <trkpt lat="43.099193" lon="-75.2681998"/>
+            <trkpt lat="43.0991272" lon="-75.2696481"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/137877173</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=baseball
+        </desc>
+        <link href="http://osm.org/browse/way/137877173"/>
+        <trkseg>
+            <trkpt lat="43.0931852" lon="-75.2745796"/>
+            <trkpt lat="43.0931343" lon="-75.2746383"/>
+            <trkpt lat="43.092421" lon="-75.2749688"/>
+            <trkpt lat="43.0923165" lon="-75.2744768"/>
+            <trkpt lat="43.0923326" lon="-75.2741133"/>
+            <trkpt lat="43.0924639" lon="-75.2737314"/>
+            <trkpt lat="43.092598" lon="-75.2735331"/>
+            <trkpt lat="43.0929037" lon="-75.2732504"/>
+            <trkpt lat="43.0929815" lon="-75.2732981"/>
+            <trkpt lat="43.0932871" lon="-75.274418"/>
+            <trkpt lat="43.0931852" lon="-75.2745796"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/137877177</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=baseball
+        </desc>
+        <link href="http://osm.org/browse/way/137877177"/>
+        <trkseg>
+            <trkpt lat="43.0929359" lon="-75.2729346"/>
+            <trkpt lat="43.0922038" lon="-75.2732981"/>
+            <trkpt lat="43.0921744" lon="-75.2732026"/>
+            <trkpt lat="43.0921395" lon="-75.2729603"/>
+            <trkpt lat="43.092169" lon="-75.2725711"/>
+            <trkpt lat="43.0922736" lon="-75.2722406"/>
+            <trkpt lat="43.0924586" lon="-75.2720093"/>
+            <trkpt lat="43.0926785" lon="-75.2718734"/>
+            <trkpt lat="43.0927669" lon="-75.2718404"/>
+            <trkpt lat="43.0929788" lon="-75.2727877"/>
+            <trkpt lat="43.0929359" lon="-75.2729346"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/137877244</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=tennis
+        </desc>
+        <link href="http://osm.org/browse/way/137877244"/>
+        <trkseg>
+            <trkpt lat="43.0779846" lon="-75.3079236"/>
+            <trkpt lat="43.0776463" lon="-75.3078035"/>
+            <trkpt lat="43.0778042" lon="-75.3069799"/>
+            <trkpt lat="43.078135" lon="-75.3070932"/>
+            <trkpt lat="43.0779846" lon="-75.3079236"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/137877253</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=tennis
+        </desc>
+        <link href="http://osm.org/browse/way/137877253"/>
+        <trkseg>
+            <trkpt lat="43.0997956" lon="-75.2691108"/>
+            <trkpt lat="43.0996311" lon="-75.2687473"/>
+            <trkpt lat="43.1001247" lon="-75.2683507"/>
+            <trkpt lat="43.100276" lon="-75.2687323"/>
+            <trkpt lat="43.0997956" lon="-75.2691108"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/137877263</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=tennis
+        </desc>
+        <link href="http://osm.org/browse/way/137877263"/>
+        <trkseg>
+            <trkpt lat="43.0742064" lon="-75.2180091"/>
+            <trkpt lat="43.0739067" lon="-75.2178076"/>
+            <trkpt lat="43.07426" lon="-75.2167892"/>
+            <trkpt lat="43.074549" lon="-75.2169724"/>
+            <trkpt lat="43.0742064" lon="-75.2180091"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/137877324</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=tennis
+        </desc>
+        <link href="http://osm.org/browse/way/137877324"/>
+        <trkseg>
+            <trkpt lat="43.0839564" lon="-75.2136655"/>
+            <trkpt lat="43.0834045" lon="-75.2141325"/>
+            <trkpt lat="43.083137" lon="-75.2135601"/>
+            <trkpt lat="43.0837156" lon="-75.2131159"/>
+            <trkpt lat="43.0839564" lon="-75.2136655"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/137877339</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=american_football
+        </desc>
+        <link href="http://osm.org/browse/way/137877339"/>
+        <trkseg>
+            <trkpt lat="43.0800202" lon="-75.2148436"/>
+            <trkpt lat="43.0795654" lon="-75.2150359"/>
+            <trkpt lat="43.0793011" lon="-75.2136805"/>
+            <trkpt lat="43.0798028" lon="-75.2135202"/>
+            <trkpt lat="43.0800202" lon="-75.2148436"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/137877349</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=american_football
+        </desc>
+        <link href="http://osm.org/browse/way/137877349"/>
+        <trkseg>
+            <trkpt lat="43.0607173" lon="-75.2620703"/>
+            <trkpt lat="43.0598379" lon="-75.2615922"/>
+            <trkpt lat="43.0600248" lon="-75.2609799"/>
+            <trkpt lat="43.0608919" lon="-75.2614496"/>
+            <trkpt lat="43.0607173" lon="-75.2620703"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/137877507</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=baseball
+        </desc>
+        <link href="http://osm.org/browse/way/137877507"/>
+        <trkseg>
+            <trkpt lat="43.1000359" lon="-75.2645447"/>
+            <trkpt lat="43.100055" lon="-75.2644659"/>
+            <trkpt lat="43.1006501" lon="-75.2639626"/>
+            <trkpt lat="43.1007955" lon="-75.2642556"/>
+            <trkpt lat="43.1008503" lon="-75.2646687"/>
+            <trkpt lat="43.10079" lon="-75.2650405"/>
+            <trkpt lat="43.1006474" lon="-75.2653597"/>
+            <trkpt lat="43.1004746" lon="-75.2655175"/>
+            <trkpt lat="43.1000359" lon="-75.2645447"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/137877513</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=baseball
+        </desc>
+        <link href="http://osm.org/browse/way/137877513"/>
+        <trkseg>
+            <trkpt lat="43.0596744" lon="-75.2577731"/>
+            <trkpt lat="43.0596769" lon="-75.2576691"/>
+            <trkpt lat="43.0599857" lon="-75.2573739"/>
+            <trkpt lat="43.0601181" lon="-75.2575484"/>
+            <trkpt lat="43.0601647" lon="-75.2578067"/>
+            <trkpt lat="43.0601255" lon="-75.2580281"/>
+            <trkpt lat="43.0600274" lon="-75.2581523"/>
+            <trkpt lat="43.0598436" lon="-75.2580315"/>
+            <trkpt lat="43.0596744" lon="-75.2577731"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/137877514</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=baseball
+        </desc>
+        <link href="http://osm.org/browse/way/137877514"/>
+        <trkseg>
+            <trkpt lat="43.0861402" lon="-75.1959766"/>
+            <trkpt lat="43.0861782" lon="-75.1958019"/>
+            <trkpt lat="43.0866171" lon="-75.1954493"/>
+            <trkpt lat="43.0866821" lon="-75.1956302"/>
+            <trkpt lat="43.0867156" lon="-75.196041"/>
+            <trkpt lat="43.086635" lon="-75.1962373"/>
+            <trkpt lat="43.0864828" lon="-75.1963936"/>
+            <trkpt lat="43.0863014" lon="-75.1965255"/>
+            <trkpt lat="43.0861402" lon="-75.1959766"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/139708795</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=baseball
+        </desc>
+        <link href="http://osm.org/browse/way/139708795"/>
+        <trkseg>
+            <trkpt lat="43.1156168" lon="-75.2902671"/>
+            <trkpt lat="43.1155419" lon="-75.2902879"/>
+            <trkpt lat="43.1152128" lon="-75.2899125"/>
+            <trkpt lat="43.1150792" lon="-75.2894986"/>
+            <trkpt lat="43.1154318" lon="-75.2893028"/>
+            <trkpt lat="43.1156519" lon="-75.2892708"/>
+            <trkpt lat="43.1158276" lon="-75.2893702"/>
+            <trkpt lat="43.1159354" lon="-75.2895676"/>
+            <trkpt lat="43.116015" lon="-75.2897697"/>
+            <trkpt lat="43.1160724" lon="-75.2899029"/>
+            <trkpt lat="43.1156168" lon="-75.2902671"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/139708796</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=baseball
+        </desc>
+        <link href="http://osm.org/browse/way/139708796"/>
+        <trkseg>
+            <trkpt lat="43.1270379" lon="-75.3019465"/>
+            <trkpt lat="43.1266895" lon="-75.302514"/>
+            <trkpt lat="43.1265971" lon="-75.3024182"/>
+            <trkpt lat="43.1264964" lon="-75.3022897"/>
+            <trkpt lat="43.126439" lon="-75.3021172"/>
+            <trkpt lat="43.1264236" lon="-75.3019427"/>
+            <trkpt lat="43.1264474" lon="-75.3017241"/>
+            <trkpt lat="43.1265034" lon="-75.3015573"/>
+            <trkpt lat="43.1266237" lon="-75.3013579"/>
+            <trkpt lat="43.1270267" lon="-75.3018622"/>
+            <trkpt lat="43.1270379" lon="-75.3019465"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/139708801</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=tennis
+        </desc>
+        <link href="http://osm.org/browse/way/139708801"/>
+        <trkseg>
+            <trkpt lat="43.1149885" lon="-75.3330929"/>
+            <trkpt lat="43.1147472" lon="-75.333311"/>
+            <trkpt lat="43.11467" lon="-75.33316"/>
+            <trkpt lat="43.114915" lon="-75.3329334"/>
+            <trkpt lat="43.1149885" lon="-75.3330929"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/139708802</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=tennis
+        </desc>
+        <link href="http://osm.org/browse/way/139708802"/>
+        <trkseg>
+            <trkpt lat="43.104684" lon="-75.3014533"/>
+            <trkpt lat="43.1045691" lon="-75.3015881"/>
+            <trkpt lat="43.1043686" lon="-75.3012675"/>
+            <trkpt lat="43.1044835" lon="-75.3011327"/>
+            <trkpt lat="43.104684" lon="-75.3014533"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/139708804</name>
+        <desc>leisure=pitch
+            sport=multi
+        </desc>
+        <link href="http://osm.org/browse/way/139708804"/>
+        <trkseg>
+            <trkpt lat="43.092019" lon="-75.2831554"/>
+            <trkpt lat="43.0916944" lon="-75.2836319"/>
+            <trkpt lat="43.0910404" lon="-75.2828068"/>
+            <trkpt lat="43.0913534" lon="-75.2823111"/>
+            <trkpt lat="43.092019" lon="-75.2831554"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/139708805</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=soccer
+        </desc>
+        <link href="http://osm.org/browse/way/139708805"/>
+        <trkseg>
+            <trkpt lat="43.1053767" lon="-75.3006715"/>
+            <trkpt lat="43.1055553" lon="-75.3010753"/>
+            <trkpt lat="43.1049834" lon="-75.30155"/>
+            <trkpt lat="43.1048048" lon="-75.3011462"/>
+            <trkpt lat="43.1053767" lon="-75.3006715"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/139708806</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=american_football
+        </desc>
+        <link href="http://osm.org/browse/way/139708806"/>
+        <trkseg>
+            <trkpt lat="43.0906987" lon="-75.29198"/>
+            <trkpt lat="43.0907742" lon="-75.2914768"/>
+            <trkpt lat="43.0917369" lon="-75.2917481"/>
+            <trkpt lat="43.0916613" lon="-75.2922512"/>
+            <trkpt lat="43.0906987" lon="-75.29198"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/139708808</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=soccer
+        </desc>
+        <link href="http://osm.org/browse/way/139708808"/>
+        <trkseg>
+            <trkpt lat="43.112708" lon="-75.3353059"/>
+            <trkpt lat="43.1135088" lon="-75.3345174"/>
+            <trkpt lat="43.1137535" lon="-75.3349894"/>
+            <trkpt lat="43.1129566" lon="-75.3357726"/>
+            <trkpt lat="43.112708" lon="-75.3353059"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/139708810</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=multi
+        </desc>
+        <link href="http://osm.org/browse/way/139708810"/>
+        <trkseg>
+            <trkpt lat="43.1163464" lon="-75.2938088"/>
+            <trkpt lat="43.1160628" lon="-75.2942851"/>
+            <trkpt lat="43.1152979" lon="-75.2934127"/>
+            <trkpt lat="43.1155943" lon="-75.2929364"/>
+            <trkpt lat="43.1163464" lon="-75.2938088"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/139708811</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=multi
+        </desc>
+        <link href="http://osm.org/browse/way/139708811"/>
+        <trkseg>
+            <trkpt lat="43.0747472" lon="-75.3229763"/>
+            <trkpt lat="43.0743483" lon="-75.322576"/>
+            <trkpt lat="43.074869" lon="-75.3216034"/>
+            <trkpt lat="43.075273" lon="-75.3219967"/>
+            <trkpt lat="43.0747472" lon="-75.3229763"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/139708813</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=soccer
+        </desc>
+        <link href="http://osm.org/browse/way/139708813"/>
+        <trkseg>
+            <trkpt lat="43.1060708" lon="-75.3001064"/>
+            <trkpt lat="43.1063281" lon="-75.2998087"/>
+            <trkpt lat="43.1067603" lon="-75.3005238"/>
+            <trkpt lat="43.1064955" lon="-75.3008147"/>
+            <trkpt lat="43.1060708" lon="-75.3001064"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/139708815</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=tennis;basketball
+        </desc>
+        <link href="http://osm.org/browse/way/139708815"/>
+        <trkseg>
+            <trkpt lat="43.1150767" lon="-75.333265"/>
+            <trkpt lat="43.114803" lon="-75.3335239"/>
+            <trkpt lat="43.1147152" lon="-75.333352"/>
+            <trkpt lat="43.1147472" lon="-75.333311"/>
+            <trkpt lat="43.1149885" lon="-75.3330929"/>
+            <trkpt lat="43.1150767" lon="-75.333265"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/139708816</name>
+        <desc>leisure=golf_course
+            source=Bing
+        </desc>
+        <link href="http://osm.org/browse/way/139708816"/>
+        <trkseg>
+            <trkpt lat="43.1282983" lon="-75.3149663"/>
+            <trkpt lat="43.1286646" lon="-75.313706"/>
+            <trkpt lat="43.1287971" lon="-75.3129797"/>
+            <trkpt lat="43.1294207" lon="-75.313439"/>
+            <trkpt lat="43.1299274" lon="-75.3137274"/>
+            <trkpt lat="43.1300209" lon="-75.3151051"/>
+            <trkpt lat="43.1299741" lon="-75.3157887"/>
+            <trkpt lat="43.130816" lon="-75.3173374"/>
+            <trkpt lat="43.1316408" lon="-75.3181446"/>
+            <trkpt lat="43.1316727" lon="-75.3185646"/>
+            <trkpt lat="43.1315993" lon="-75.3189452"/>
+            <trkpt lat="43.1316184" lon="-75.3190152"/>
+            <trkpt lat="43.1314907" lon="-75.3191946"/>
+            <trkpt lat="43.1314748" lon="-75.3193564"/>
+            <trkpt lat="43.131628" lon="-75.3196233"/>
+            <trkpt lat="43.1318898" lon="-75.3195927"/>
+            <trkpt lat="43.132225" lon="-75.3195402"/>
+            <trkpt lat="43.1325443" lon="-75.3193214"/>
+            <trkpt lat="43.1329781" lon="-75.3190229"/>
+            <trkpt lat="43.1326539" lon="-75.3181684"/>
+            <trkpt lat="43.1338885" lon="-75.3171175"/>
+            <trkpt lat="43.1348861" lon="-75.3159212"/>
+            <trkpt lat="43.1353226" lon="-75.315776"/>
+            <trkpt lat="43.1355159" lon="-75.3160238"/>
+            <trkpt lat="43.1357591" lon="-75.3168526"/>
+            <trkpt lat="43.1354224" lon="-75.3172029"/>
+            <trkpt lat="43.1353164" lon="-75.3177327"/>
+            <trkpt lat="43.1349921" lon="-75.318288"/>
+            <trkpt lat="43.1337825" lon="-75.3197491"/>
+            <trkpt lat="43.1332961" lon="-75.3202276"/>
+            <trkpt lat="43.132579" lon="-75.3206805"/>
+            <trkpt lat="43.1321488" lon="-75.3206719"/>
+            <trkpt lat="43.131943" lon="-75.3208257"/>
+            <trkpt lat="43.1318682" lon="-75.3221416"/>
+            <trkpt lat="43.1332026" lon="-75.3259951"/>
+            <trkpt lat="43.1331278" lon="-75.3267556"/>
+            <trkpt lat="43.1331839" lon="-75.3276784"/>
+            <trkpt lat="43.1327599" lon="-75.3289429"/>
+            <trkpt lat="43.1316998" lon="-75.3319677"/>
+            <trkpt lat="43.1317248" lon="-75.3327538"/>
+            <trkpt lat="43.1327536" lon="-75.3331895"/>
+            <trkpt lat="43.1334146" lon="-75.3339756"/>
+            <trkpt lat="43.1338199" lon="-75.3347702"/>
+            <trkpt lat="43.134643" lon="-75.3363766"/>
+            <trkpt lat="43.134512" lon="-75.3372652"/>
+            <trkpt lat="43.1339508" lon="-75.3386323"/>
+            <trkpt lat="43.1333148" lon="-75.3392817"/>
+            <trkpt lat="43.1325284" lon="-75.3400646"/>
+            <trkpt lat="43.13161" lon="-75.3406414"/>
+            <trkpt lat="43.1303089" lon="-75.3421271"/>
+            <trkpt lat="43.129419" lon="-75.3431104"/>
+            <trkpt lat="43.1288123" lon="-75.3435484"/>
+            <trkpt lat="43.1287041" lon="-75.3435994"/>
+            <trkpt lat="43.1286399" lon="-75.3434932"/>
+            <trkpt lat="43.1287789" lon="-75.3429477"/>
+            <trkpt lat="43.1286961" lon="-75.3425486"/>
+            <trkpt lat="43.1285972" lon="-75.3422374"/>
+            <trkpt lat="43.128338" lon="-75.3420946"/>
+            <trkpt lat="43.1279105" lon="-75.3420287"/>
+            <trkpt lat="43.127817" lon="-75.3419884"/>
+            <trkpt lat="43.1276299" lon="-75.3417505"/>
+            <trkpt lat="43.1276219" lon="-75.3374925"/>
+            <trkpt lat="43.1275923" lon="-75.3318993"/>
+            <trkpt lat="43.1276257" lon="-75.3252233"/>
+            <trkpt lat="43.1276174" lon="-75.3176492"/>
+            <trkpt lat="43.1276424" lon="-75.3154353"/>
+            <trkpt lat="43.1282983" lon="-75.3149663"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/139708823</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=baseball
+        </desc>
+        <link href="http://osm.org/browse/way/139708823"/>
+        <trkseg>
+            <trkpt lat="43.1058336" lon="-75.3008097"/>
+            <trkpt lat="43.1057457" lon="-75.3011523"/>
+            <trkpt lat="43.1056226" lon="-75.3011496"/>
+            <trkpt lat="43.1055034" lon="-75.3010345"/>
+            <trkpt lat="43.1054721" lon="-75.3007482"/>
+            <trkpt lat="43.1055171" lon="-75.3006438"/>
+            <trkpt lat="43.1057887" lon="-75.3007268"/>
+            <trkpt lat="43.1058336" lon="-75.3008097"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/139708824</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=baseball
+        </desc>
+        <link href="http://osm.org/browse/way/139708824"/>
+        <trkseg>
+            <trkpt lat="43.1147901" lon="-75.3357198"/>
+            <trkpt lat="43.1146733" lon="-75.3356778"/>
+            <trkpt lat="43.114457" lon="-75.3351717"/>
+            <trkpt lat="43.1146369" lon="-75.3349488"/>
+            <trkpt lat="43.1148552" lon="-75.3348937"/>
+            <trkpt lat="43.1150255" lon="-75.3349986"/>
+            <trkpt lat="43.1152074" lon="-75.3353789"/>
+            <trkpt lat="43.1147901" lon="-75.3357198"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/139708829</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=baseball
+        </desc>
+        <link href="http://osm.org/browse/way/139708829"/>
+        <trkseg>
+            <trkpt lat="43.1152514" lon="-75.3336481"/>
+            <trkpt lat="43.1154467" lon="-75.3340755"/>
+            <trkpt lat="43.1151978" lon="-75.3342617"/>
+            <trkpt lat="43.1150657" lon="-75.3343614"/>
+            <trkpt lat="43.1149547" lon="-75.3343115"/>
+            <trkpt lat="43.1147977" lon="-75.3339811"/>
+            <trkpt lat="43.1151672" lon="-75.3336192"/>
+            <trkpt lat="43.1152514" lon="-75.3336481"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/139708830</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=baseball
+        </desc>
+        <link href="http://osm.org/browse/way/139708830"/>
+        <trkseg>
+            <trkpt lat="43.1157874" lon="-75.3348386"/>
+            <trkpt lat="43.1152227" lon="-75.3353631"/>
+            <trkpt lat="43.1151021" lon="-75.3350563"/>
+            <trkpt lat="43.1150925" lon="-75.3347521"/>
+            <trkpt lat="43.1151078" lon="-75.3344636"/>
+            <trkpt lat="43.1151978" lon="-75.3342617"/>
+            <trkpt lat="43.1154467" lon="-75.3340755"/>
+            <trkpt lat="43.1157893" lon="-75.3347888"/>
+            <trkpt lat="43.1157874" lon="-75.3348386"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/140646772</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=baseball
+        </desc>
+        <link href="http://osm.org/browse/way/140646772"/>
+        <trkseg>
+            <trkpt lat="43.0954662" lon="-75.2603297"/>
+            <trkpt lat="43.0955594" lon="-75.2603297"/>
+            <trkpt lat="43.0956808" lon="-75.2606177"/>
+            <trkpt lat="43.0954619" lon="-75.2608255"/>
+            <trkpt lat="43.0953166" lon="-75.26049"/>
+            <trkpt lat="43.0954662" lon="-75.2603297"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/265869809</name>
+        <desc>leisure=pitch
+            sport=tennis
+        </desc>
+        <link href="http://osm.org/browse/way/265869809"/>
+        <trkseg>
+            <trkpt lat="43.0973356" lon="-75.2996381"/>
+            <trkpt lat="43.0970817" lon="-75.2999619"/>
+            <trkpt lat="43.096878" lon="-75.2996623"/>
+            <trkpt lat="43.0971319" lon="-75.2993385"/>
+            <trkpt lat="43.0973356" lon="-75.2996381"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/265869810</name>
+        <desc>leisure=pitch
+            sport=baseball
+        </desc>
+        <link href="http://osm.org/browse/way/265869810"/>
+        <trkseg>
+            <trkpt lat="43.0964466" lon="-75.2995417"/>
+            <trkpt lat="43.0960224" lon="-75.2990378"/>
+            <trkpt lat="43.0964167" lon="-75.2984158"/>
+            <trkpt lat="43.0965382" lon="-75.2986086"/>
+            <trkpt lat="43.0966016" lon="-75.2987846"/>
+            <trkpt lat="43.0966315" lon="-75.299045"/>
+            <trkpt lat="43.0965945" lon="-75.2992934"/>
+            <trkpt lat="43.0965135" lon="-75.2994452"/>
+            <trkpt lat="43.0964466" lon="-75.2995417"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>Park</name>
+        <desc>name=Park
+            leisure=park
+        </desc>
+        <link href="http://osm.org/browse/way/292874944"/>
+        <trkseg>
+            <trkpt lat="43.0724594" lon="-75.2879541"/>
+            <trkpt lat="43.0725754" lon="-75.2875268"/>
+            <trkpt lat="43.0730189" lon="-75.2877836"/>
+            <trkpt lat="43.0729148" lon="-75.2881969"/>
+            <trkpt lat="43.0724594" lon="-75.2879541"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/320140079</name>
+        <desc>leisure=golf_course</desc>
+        <link href="http://osm.org/browse/way/320140079"/>
+        <trkseg>
+            <trkpt lat="43.1248806" lon="-75.1909133"/>
+            <trkpt lat="43.1252503" lon="-75.1905896"/>
+            <trkpt lat="43.1251017" lon="-75.1902292"/>
+            <trkpt lat="43.1253952" lon="-75.1899055"/>
+            <trkpt lat="43.125075" lon="-75.1890908"/>
+            <trkpt lat="43.126611" lon="-75.1874825"/>
+            <trkpt lat="43.1283375" lon="-75.1858688"/>
+            <trkpt lat="43.1287148" lon="-75.1856756"/>
+            <trkpt lat="43.1288177" lon="-75.1856861"/>
+            <trkpt lat="43.1289434" lon="-75.1857748"/>
+            <trkpt lat="43.1289434" lon="-75.1859054"/>
+            <trkpt lat="43.1288939" lon="-75.1862344"/>
+            <trkpt lat="43.129195" lon="-75.1868767"/>
+            <trkpt lat="43.1292941" lon="-75.1868871"/>
+            <trkpt lat="43.1299648" lon="-75.1863597"/>
+            <trkpt lat="43.1304641" lon="-75.1859994"/>
+            <trkpt lat="43.1314168" lon="-75.1849654"/>
+            <trkpt lat="43.1316302" lon="-75.1848192"/>
+            <trkpt lat="43.132099" lon="-75.18472"/>
+            <trkpt lat="43.1328078" lon="-75.1842343"/>
+            <trkpt lat="43.1329526" lon="-75.1840255"/>
+            <trkpt lat="43.1331775" lon="-75.1840098"/>
+            <trkpt lat="43.1335014" lon="-75.184626"/>
+            <trkpt lat="43.1336195" lon="-75.184955"/>
+            <trkpt lat="43.1336119" lon="-75.1851482"/>
+            <trkpt lat="43.1334823" lon="-75.1853466"/>
+            <trkpt lat="43.1324039" lon="-75.1862448"/>
+            <trkpt lat="43.1306889" lon="-75.1877018"/>
+            <trkpt lat="43.1295151" lon="-75.1886574"/>
+            <trkpt lat="43.128044" lon="-75.1898272"/>
+            <trkpt lat="43.1270569" lon="-75.1906157"/>
+            <trkpt lat="43.1267024" lon="-75.1906836"/>
+            <trkpt lat="43.1263632" lon="-75.1910126"/>
+            <trkpt lat="43.1253266" lon="-75.1918585"/>
+            <trkpt lat="43.1250598" lon="-75.191305"/>
+            <trkpt lat="43.1248806" lon="-75.1909133"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/321695435</name>
+        <desc>leisure=playground</desc>
+        <link href="http://osm.org/browse/way/321695435"/>
+        <trkseg>
+            <trkpt lat="43.0994254" lon="-75.2248417"/>
+            <trkpt lat="43.099358" lon="-75.2246242"/>
+            <trkpt lat="43.0993314" lon="-75.2246397"/>
+            <trkpt lat="43.0993137" lon="-75.2245824"/>
+            <trkpt lat="43.0994074" lon="-75.224528"/>
+            <trkpt lat="43.0994131" lon="-75.2245464"/>
+            <trkpt lat="43.0994853" lon="-75.2245045"/>
+            <trkpt lat="43.0995647" lon="-75.2247607"/>
+            <trkpt lat="43.0994254" lon="-75.2248417"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/321695442</name>
+        <desc>leisure=park</desc>
+        <link href="http://osm.org/browse/way/321695442"/>
+        <trkseg>
+            <trkpt lat="43.1024944" lon="-75.2295277"/>
+            <trkpt lat="43.1024576" lon="-75.229437"/>
+            <trkpt lat="43.1026287" lon="-75.2291043"/>
+            <trkpt lat="43.1027263" lon="-75.2293462"/>
+            <trkpt lat="43.1024944" lon="-75.2295277"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/321695458</name>
+        <desc>leisure=pitch
+            sport=basketball
+        </desc>
+        <link href="http://osm.org/browse/way/321695458"/>
+        <trkseg>
+            <trkpt lat="43.1062174" lon="-75.2351794"/>
+            <trkpt lat="43.1059495" lon="-75.2351575"/>
+            <trkpt lat="43.105959" lon="-75.2349377"/>
+            <trkpt lat="43.106227" lon="-75.2349595"/>
+            <trkpt lat="43.1062174" lon="-75.2351794"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/364212123</name>
+        <desc>leisure=pitch
+            sport=soccer
+        </desc>
+        <link href="http://osm.org/browse/way/364212123"/>
+        <trkseg>
+            <trkpt lat="43.0967811" lon="-75.2696682"/>
+            <trkpt lat="43.0968163" lon="-75.2686597"/>
+            <trkpt lat="43.0979758" lon="-75.2687616"/>
+            <trkpt lat="43.0979248" lon="-75.2697165"/>
+            <trkpt lat="43.0967811" lon="-75.2696682"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/364212124</name>
+        <desc>leisure=pitch
+            sport=volleyball
+        </desc>
+        <link href="http://osm.org/browse/way/364212124"/>
+        <trkseg>
+            <trkpt lat="43.0974137" lon="-75.2714653"/>
+            <trkpt lat="43.0973216" lon="-75.2714599"/>
+            <trkpt lat="43.0973295" lon="-75.271189"/>
+            <trkpt lat="43.0974293" lon="-75.2711998"/>
+            <trkpt lat="43.0974137" lon="-75.2714653"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/412460177</name>
+        <desc>leisure=playground
+            source=Bing
+        </desc>
+        <link href="http://osm.org/browse/way/412460177"/>
+        <trkseg>
+            <trkpt lat="43.0944047" lon="-75.2226601"/>
+            <trkpt lat="43.094403" lon="-75.2226789"/>
+            <trkpt lat="43.09433" lon="-75.2227255"/>
+            <trkpt lat="43.094309" lon="-75.2227215"/>
+            <trkpt lat="43.0942108" lon="-75.2224345"/>
+            <trkpt lat="43.0942152" lon="-75.2224147"/>
+            <trkpt lat="43.0943158" lon="-75.2223543"/>
+            <trkpt lat="43.0943337" lon="-75.22236"/>
+            <trkpt lat="43.0943785" lon="-75.2224928"/>
+            <trkpt lat="43.0943775" lon="-75.2225062"/>
+            <trkpt lat="43.0943623" lon="-75.222521"/>
+            <trkpt lat="43.0943611" lon="-75.2225334"/>
+            <trkpt lat="43.0944047" lon="-75.2226601"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/412460179</name>
+        <desc>leisure=playground
+            source=Bing
+        </desc>
+        <link href="http://osm.org/browse/way/412460179"/>
+        <trkseg>
+            <trkpt lat="43.0941" lon="-75.2225453"/>
+            <trkpt lat="43.094076" lon="-75.2225676"/>
+            <trkpt lat="43.0940486" lon="-75.2225802"/>
+            <trkpt lat="43.0940197" lon="-75.2225822"/>
+            <trkpt lat="43.0940062" lon="-75.222578"/>
+            <trkpt lat="43.0939915" lon="-75.2225734"/>
+            <trkpt lat="43.0939661" lon="-75.2225546"/>
+            <trkpt lat="43.0939453" lon="-75.222527"/>
+            <trkpt lat="43.0939307" lon="-75.2224928"/>
+            <trkpt lat="43.0939234" lon="-75.2224545"/>
+            <trkpt lat="43.093924" lon="-75.2224149"/>
+            <trkpt lat="43.0939323" lon="-75.222377"/>
+            <trkpt lat="43.0939477" lon="-75.2223435"/>
+            <trkpt lat="43.0939692" lon="-75.222317"/>
+            <trkpt lat="43.0939951" lon="-75.2222994"/>
+            <trkpt lat="43.0940235" lon="-75.2222921"/>
+            <trkpt lat="43.0940523" lon="-75.2222955"/>
+            <trkpt lat="43.0940794" lon="-75.2223094"/>
+            <trkpt lat="43.0941027" lon="-75.2223328"/>
+            <trkpt lat="43.0941206" lon="-75.222364"/>
+            <trkpt lat="43.0941316" lon="-75.2224006"/>
+            <trkpt lat="43.0941351" lon="-75.2224399"/>
+            <trkpt lat="43.0941306" lon="-75.222479"/>
+            <trkpt lat="43.0941186" lon="-75.2225151"/>
+            <trkpt lat="43.0941" lon="-75.2225453"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/412460180</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=basketball
+        </desc>
+        <link href="http://osm.org/browse/way/412460180"/>
+        <trkseg>
+            <trkpt lat="43.0944342" lon="-75.2536555"/>
+            <trkpt lat="43.0943121" lon="-75.2537569"/>
+            <trkpt lat="43.0941664" lon="-75.2534275"/>
+            <trkpt lat="43.0942885" lon="-75.2533262"/>
+            <trkpt lat="43.0944342" lon="-75.2536555"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/412460182</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=skateboard
+        </desc>
+        <link href="http://osm.org/browse/way/412460182"/>
+        <trkseg>
+            <trkpt lat="43.0945735" lon="-75.254141"/>
+            <trkpt lat="43.0944564" lon="-75.2538854"/>
+            <trkpt lat="43.0947994" lon="-75.2535905"/>
+            <trkpt lat="43.0948064" lon="-75.2535845"/>
+            <trkpt lat="43.0949235" lon="-75.25384"/>
+            <trkpt lat="43.0945735" lon="-75.254141"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/412460184</name>
+        <desc>leisure=pitch
+            source=Bing
+            sport=baseball
+        </desc>
+        <link href="http://osm.org/browse/way/412460184"/>
+        <trkseg>
+            <trkpt lat="43.0940051" lon="-75.2231614"/>
+            <trkpt lat="43.0938729" lon="-75.2232365"/>
+            <trkpt lat="43.0937231" lon="-75.2232539"/>
+            <trkpt lat="43.093539" lon="-75.2231976"/>
+            <trkpt lat="43.0933911" lon="-75.2230702"/>
+            <trkpt lat="43.0932932" lon="-75.2229173"/>
+            <trkpt lat="43.0932295" lon="-75.2227899"/>
+            <trkpt lat="43.0937084" lon="-75.2224103"/>
+            <trkpt lat="43.0938112" lon="-75.2224613"/>
+            <trkpt lat="43.0940051" lon="-75.2231614"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>way/420678967</name>
+        <desc>leisure=pitch
+            sport=soccer
+        </desc>
+        <link href="http://osm.org/browse/way/420678967"/>
+        <trkseg>
+            <trkpt lat="43.099483" lon="-75.3262998"/>
+            <trkpt lat="43.0991415" lon="-75.3262447"/>
+            <trkpt lat="43.0992118" lon="-75.3254271"/>
+            <trkpt lat="43.0995533" lon="-75.3254822"/>
+            <trkpt lat="43.099483" lon="-75.3262998"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>Roscoe Conkling Park</name>
+        <desc>source=Bing
+            name=Roscoe Conkling Park
+            leisure=park
+            comment=may not be exact please update
+        </desc>
+        <link href="http://osm.org/browse/way/125832843"/>
+        <trkseg>
+            <trkpt lat="43.0784591" lon="-75.233912"/>
+            <trkpt lat="43.0785121" lon="-75.2340106"/>
+            <trkpt lat="43.0786602" lon="-75.2342525"/>
+            <trkpt lat="43.0789188" lon="-75.2342525"/>
+            <trkpt lat="43.0791234" lon="-75.234311"/>
+            <trkpt lat="43.0792017" lon="-75.2345363"/>
+            <trkpt lat="43.0793428" lon="-75.2347616"/>
+            <trkpt lat="43.0795387" lon="-75.2350942"/>
+            <trkpt lat="43.0797182" lon="-75.2352288"/>
+            <trkpt lat="43.0799454" lon="-75.2352074"/>
+            <trkpt lat="43.0801413" lon="-75.235025"/>
+            <trkpt lat="43.0801813" lon="-75.2345685"/>
+            <trkpt lat="43.0803216" lon="-75.2345529"/>
+            <trkpt lat="43.0814273" lon="-75.2381519"/>
+            <trkpt lat="43.0825157" lon="-75.2408722"/>
+            <trkpt lat="43.0839975" lon="-75.2445034"/>
+            <trkpt lat="43.0855333" lon="-75.2487198"/>
+            <trkpt lat="43.0862776" lon="-75.2505974"/>
+            <trkpt lat="43.0850161" lon="-75.2516273"/>
+            <trkpt lat="43.083496" lon="-75.2526578"/>
+            <trkpt lat="43.083496" lon="-75.2519068"/>
+            <trkpt lat="43.0834012" lon="-75.251644"/>
+            <trkpt lat="43.0827124" lon="-75.2514991"/>
+            <trkpt lat="43.082728" lon="-75.2504906"/>
+            <trkpt lat="43.0824138" lon="-75.2502921"/>
+            <trkpt lat="43.0812705" lon="-75.2501687"/>
+            <trkpt lat="43.0801421" lon="-75.2510914"/>
+            <trkpt lat="43.0799697" lon="-75.2502117"/>
+            <trkpt lat="43.0797189" lon="-75.2485165"/>
+            <trkpt lat="43.0796092" lon="-75.2470359"/>
+            <trkpt lat="43.0796085" lon="-75.2464297"/>
+            <trkpt lat="43.079766" lon="-75.244976"/>
+            <trkpt lat="43.079766" lon="-75.2434525"/>
+            <trkpt lat="43.0796719" lon="-75.242959"/>
+            <trkpt lat="43.0792644" lon="-75.2420363"/>
+            <trkpt lat="43.0789659" lon="-75.2416661"/>
+            <trkpt lat="43.0787472" lon="-75.241414"/>
+            <trkpt lat="43.078277" lon="-75.2411994"/>
+            <trkpt lat="43.0778068" lon="-75.2412209"/>
+            <trkpt lat="43.0773993" lon="-75.2414569"/>
+            <trkpt lat="43.0769918" lon="-75.2414784"/>
+            <trkpt lat="43.0761141" lon="-75.2416286"/>
+            <trkpt lat="43.075455" lon="-75.2417091"/>
+            <trkpt lat="43.0751102" lon="-75.2417091"/>
+            <trkpt lat="43.0748288" lon="-75.2418861"/>
+            <trkpt lat="43.0744683" lon="-75.2422079"/>
+            <trkpt lat="43.0742168" lon="-75.2426103"/>
+            <trkpt lat="43.0738727" lon="-75.2432379"/>
+            <trkpt lat="43.0736846" lon="-75.2438602"/>
+            <trkpt lat="43.07449" lon="-75.2478571"/>
+            <trkpt lat="43.0745624" lon="-75.2482161"/>
+            <trkpt lat="43.07507" lon="-75.25011"/>
+        </trkseg>
+    </trk>
+    <trk>
+        <name>Roscoe Conkling Park</name>
+        <desc>leisure=park
+            name=Roscoe Conkling Park
+        </desc>
+        <link href="http://osm.org/browse/way/235077541"/>
+        <trkseg>
+            <trkpt lat="43.0784591" lon="-75.233912"/>
+            <trkpt lat="43.076438" lon="-75.235578"/>
+            <trkpt lat="43.072508" lon="-75.238866"/>
+            <trkpt lat="43.072075" lon="-75.239222"/>
+            <trkpt lat="43.071778" lon="-75.239443"/>
+            <trkpt lat="43.065772" lon="-75.244907"/>
+            <trkpt lat="43.06617" lon="-75.245808"/>
+            <trkpt lat="43.066458" lon="-75.245926"/>
+            <trkpt lat="43.067644" lon="-75.24522"/>
+            <trkpt lat="43.068369" lon="-75.246708"/>
+            <trkpt lat="43.067269" lon="-75.247908"/>
+            <trkpt lat="43.069169" lon="-75.252909"/>
+            <trkpt lat="43.070069" lon="-75.252109"/>
+            <trkpt lat="43.070469" lon="-75.253009"/>
+            <trkpt lat="43.07507" lon="-75.25011"/>
+        </trkseg>
+    </trk>
+</gpx>

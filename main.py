@@ -2,8 +2,11 @@ import datetime
 from pytz import timezone
 import discord
 import asyncio
+from dateutil import tz
 import re
 
+from_zone = tz.gettz('UTC')
+to_zone = tz.gettz('America/New_York')
 
 import gpxpy
 import gpxpy.gpx
@@ -28,7 +31,8 @@ lon_re = re.compile(',(-?[0-9]+\.[0-9]+)')
 
 
 def parse_message(msg):
-    info = {'timestamp': timezone("US/Eastern").localize(msg.timestamp)}
+    #info = {'timestamp': timezone("US/Eastern").localize(msg.timestamp)}
+    info = {'timestamp': msg.timestamp.replace(tzinfo=from_zone).astimezone(to_zone)}
 
     embeds = msg.embeds[0]
     info['latitude'] = float(lat_re.findall(embeds['url'])[0])
@@ -56,9 +60,19 @@ def parse_message(msg):
 
     return info
 
+
 def isExRaidPossible(info):
     p = Point(info['latitude'], info['longitude'])
     return any(x.contains(p) for x in exraid_locations)
+
+
+def isStillRelevant(info):
+    if info['type'] == 'egg' and info['start time'] < datetime.datetime.now():
+        return True
+    elif info['type'] == 'raid' and info['end time'] > datetime.datetime.now():
+        return True
+    else:
+        return False
 
 
 async def forward_info(info):
@@ -96,15 +110,16 @@ async def forward_info(info):
                         inline=True)
         em = embed
         #em = discord.Embed(title="Raid has started!", type='rich')
-    tmp = await client.send_message(target_channel, "", embed=em)
-    print(tmp)
+    await client.send_message(target_channel, "", embed=em)
+
+
 
 
 async def handle_message(message):
     if message.author.name != 'GymHuntrBot' or len(message.embeds) == 0:
         return
     info = parse_message(message)
-    if isExRaidPossible(info):
+    if isExRaidPossible(info) and isStillRelevant(info):
         print("Exraid thingy")
         print(info)
         await forward_info(info)
@@ -143,6 +158,7 @@ async def on_message(message):
         return
 
     print(message)
+    handle_message(message)
     # if message.content.startswith('!test'):
     #    counter = 0
     #    tmp = await client.send_message(message.channel, 'Calculating messages...')

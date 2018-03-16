@@ -15,6 +15,8 @@ pickleshare==0.7.4
 prompt-toolkit==1.0.15
 ptyprocess==0.5.2
 Pygments==2.2.0
+python-dateutil==2.7.0
+pytz==2018.3
 Shapely==1.6.4.post1
 simplegeneric==0.8.1
 six==1.11.0

@@ -170,7 +170,8 @@ async def on_ready():
         await handle_message(message)
 
 
-channels_to_watch = ["utica-legendary-raids", "utica-raids"]
+#channels_to_watch = ["utica-legendary-raids", "utica-raids"]
+channels_to_watch = ["utica-raids"]
 
 
 @client.event
